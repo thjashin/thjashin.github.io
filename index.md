@@ -28,31 +28,42 @@ I created and lead the development of [ZhuSuan](https://github.com/thu-ml/zhusua
 
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Preprint, 2019. [[paper]](https://openreview.net/pdf?id=rkxacs0qY7)
+Preprint, 2019.
+[[paper]](https://openreview.net/pdf?id=rkxacs0qY7)
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Shengyang Sun, and Jun Zhu.
 {: .mb-1}
-International Conference on Machine Learning (**ICML**), 2018. [[paper]]() [[arxiv]]() [[code]]()
+International Conference on Machine Learning (**ICML**), 2018. 
+[[paper]](http://proceedings.mlr.press/v80/shi18a/shi18a.pdf)
+[[arxiv]](https://arxiv.org/abs/1806.02925)
+[[code]](https://github.com/thjashin/spectral-stein-grad)
 
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu and Bo Zhang. 
 {: .mb-1}
-Neural Information Processing Systems (**NIPS**), 2018. [[paper]]() [[arxiv]]() [[code]]()
+Neural Information Processing Systems (**NIPS**), 2018.
+[[paper]](https://papers.nips.cc/paper/7583-semi-crowdsourced-clustering-with-deep-generative-models.pdf)
+[[arxiv]](https://arxiv.org/abs/1810.11971)
+[[code]](https://github.com/xinmei9322/semicrowd)
 
 Message Passing Stein Variational Gradient Descent
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Jingwei Zhuo, Chang Liu, **Jiaxin Shi**, Jun Zhu, Ning Chen, and Bo Zhang.
 {: .mb-1}
-InInternational Conference on Machine Learning (**ICML**), 2018. [[paper]]() [[arxiv]]()
+International Conference on Machine Learning (**ICML**), 2018. 
+[[paper]](http://proceedings.mlr.press/v80/zhuo18a/zhuo18a.pdf)
+[[arxiv]](https://arxiv.org/abs/1711.04425)
 
 Kernel Implicit Variational Inference
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**\*, Shengyang Sun\*, and Jun Zhu.
 {: .mb-1}
-International Conference on Learning Representations (**ICLR**), 2018. [[paper]]() [[arxiv]]()
+International Conference on Learning Representations (**ICLR**), 2018.
+[[paper]](https://openreview.net/pdf?id=r1l4eQW0Z)
+[[arxiv]](https://arxiv.org/abs/1705.10119)
 
 ## Software
 
