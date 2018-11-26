@@ -7,24 +7,23 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a PhD student in Department of Computer Science at Tsinghua University, supervised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun). My research agenda is broadly aimed at the development of methods for machine learning, including methods for the problems of
+I am a PhD student in Department of Computer Science at Tsinghua University, supervised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun). My research interests lie in addressing fundamental problems from probabilistic machine learning, Bayesian methods, and challenges from emerging fields like Bayesian deep learning. The goal is to increase the flexibility of probabilistic models, while keeping their inference and learning easy, and sufficiently scalable to solve real-world problems. 
 
-Numerical optimization
-Monte Carlo estimation
-Bayesian computation
-Reinforcement learning
-I am generally focused on the application of these methods at scale in deep learning and in theory that unifies their analysis.
-I spend two days a week as a Research Scientist at DeepMind. I am an Open Philanthropy AI Fellow. I received my MSc. from the University of Toronto, working with Geoffrey Hinton. I received a NIPS Best Paper Award in 2014, and was one of the founding members of the AlphaGo project.
+I created and lead the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), an open-source probabilistic programming library for Bayesian deep learning. I am a Microsoft Research Asia Fellow. I received my B.E. from the Department of Computer Science and Technology at Tsinghua University.
 
----
+<a href="https://github.com/thjashin"><img style="vertical-align: middle; margin: 0 16px 0 12px" src="{{site.url}}/assets/images/github/GitHub-Mark-32px.png" >Github</a>
+<a href="https://twitter.com/thjashin"><img style="width:32px; vertical-align: middle; margin: 0 12px 0 16px" src="{{site.url}}/assets/images/twitter/Twitter_Logo_Blue.png" >Twitter</a>
+
 
 ## News
 
 - I've been awarded the [Microsoft Research Asia Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) for this year.
 
----
-
 ## Research Highlights
+{: .d-inline-block :}
+
+<a href="{{site.url}}/publications.html" style="color:inherit;">MORE</a> 
+{: .label .label-red :}
 <!-- {: .fs-9 } -->
 
 Functional Variational Bayesian Neural Networks
@@ -43,13 +42,35 @@ Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu and Bo Zhang.
 {: .mb-1}
 Neural Information Processing Systems (**NIPS**), 2018. [[paper]]() [[arxiv]]() [[code]]()
 
----
+Message Passing Stein Variational Gradient Descent
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Jingwei Zhuo, Chang Liu, **Jiaxin Shi**, Jun Zhu, Ning Chen, and Bo Zhang.
+{: .mb-1}
+InInternational Conference on Machine Learning (**ICML**), 2018. [[paper]]() [[arxiv]]()
+
+Kernel Implicit Variational Inference
+{: .fs-5 .mb-1 .text-grey-dk-300}
+**Jiaxin Shi**\*, Shengyang Sun\*, and Jun Zhu.
+{: .mb-1}
+International Conference on Learning Representations (**ICLR**), 2018. [[paper]]() [[arxiv]]()
 
 ## Software
 
+I created and lead the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), a probabilistic programming library with particular focus on Bayesian deep learning. 
+
+<img style=" width: 400px;margin: 0 0 0 0" src="{{site.url}}/assets/images/zhusuan.png">
+
+<!--
 ZhuSuan: A Library for Bayesian Deep Learning
 {: .fs-6 .fw-300 }
 
 [GitHub](https://github.com/thu-ml/zhusuan){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](https://zhusuan.readthedocs.io){: .btn .fs-5 }
 
----
+-->
+
+[[github]](https://github.com/thu-ml/zhusuan) [[docs]](https://zhusuan.readthedocs.io) [[white paper]](https://arxiv.org/abs/1709.05870)
+
+## Curriculum Vitae
+{: .d-inline-block :}
+
+My CV can be downloaded from this link: [[pdf]](http://ml.cs.tsinghua.edu.cn/~jiaxin/Curriculum_Vitae.pdf)
