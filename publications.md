@@ -58,6 +58,13 @@ International Conference on Learning Representations (**ICLR**), 2018.
 
 ## Workshop Abstracts
 
+Functional Variational Bayesian Neural Networks
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
+{: .mb-1}
+NIPS Bayesian Deep Learning Workshop, Montréal, Canada, 2018.
+[[pdf]](http://bayesiandeeplearning.org/2018/papers/12.pdf)
+
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu and Bo Zhang.
