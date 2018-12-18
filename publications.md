@@ -4,8 +4,6 @@ title: Publications
 nav_order: 2
 ---
 
-# Machine Learning
-
 ## Preprints & Working Papers
 
 Functional Variational Bayesian Neural Networks
@@ -79,7 +77,7 @@ Implicit Variational Inference with Kernel Density Ratio Fitting
 ICML Workshop on Implicit Models, Sydney, Australia, 2017.
 [[pdf]](http://ml.cs.tsinghua.edu.cn/~jun/pub/implicit-vi-kdrf.pdf)
 
-# Visualization & Graphics
+## Visualization & Graphics
 
 Analyzing the Training Processes of Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
