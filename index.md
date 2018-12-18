@@ -7,7 +7,7 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a PhD student (starting from 2015) in the Department of Computer Science at Tsinghua University, supervised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun). I'm interested in addressing fundamental problems from probabilistic learning, Bayesian methods, and challenges from emerging fields like Bayesian deep learning. The goal is to increase the flexibility of probabilistic models, while keeping their inference and learning easy, and sufficiently scalable to solve real-world problems. 
+I am a PhD student (starting from 2015) in the Department of Computer Science at Tsinghua University, supervised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun). I'm interested in solving problems from probabilistic learning, Bayesian methods, and challenges from emerging fields like Bayesian deep learning. The goal is to increase the flexibility of probabilistic models, while keeping their inference and learning easy, and sufficiently scalable to solve real-world problems. 
 
 I created and lead the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), an open-source probabilistic programming library for Bayesian deep learning. I was awarded the Microsoft Research Asia Fellowship for 2018. I received my B.E. from the Department of Computer Science and Technology at Tsinghua University.
 
