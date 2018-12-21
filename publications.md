@@ -6,11 +6,6 @@ nav_order: 2
 
 ## Preprints & Working Papers
 
-Functional Variational Bayesian Neural Networks
-{: .fs-5 .mb-1 .text-grey-dk-300}
-Preprint, 2019.
-[[paper]](https://openreview.net/pdf?id=rkxacs0qY7)
-
 ZhuSuan: A Library for Bayesian Deep Learning  
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Jianfei Chen, Jun Zhu, Shengyang Sun, Yucen Luo, Yihong Gu, and Yuhao Zhou.
@@ -20,12 +15,19 @@ Arxiv, 2017.
 
 ## Conference Papers
 
+Functional Variational Bayesian Neural Networks
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
+{: .mb-1}
+International Conference on Learning Representations (**ICLR**), 2019.
+[[pdf]](https://openreview.net/pdf?id=rkxacs0qY7)
+
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu and Bo Zhang. 
 {: .mb-1}
 Neural Information Processing Systems (**NIPS**), 2018.
-[[paper]](https://papers.nips.cc/paper/7583-semi-crowdsourced-clustering-with-deep-generative-models.pdf)
+[[pdf]](https://papers.nips.cc/paper/7583-semi-crowdsourced-clustering-with-deep-generative-models.pdf)
 [[arxiv]](https://arxiv.org/abs/1810.11971)
 [[code]](https://github.com/xinmei9322/semicrowd)
 
@@ -34,7 +36,7 @@ A Spectral Approach to Gradient Estimation for Implicit Distributions
 **Jiaxin Shi**, Shengyang Sun, and Jun Zhu.
 {: .mb-1}
 International Conference on Machine Learning (**ICML**), 2018. 
-[[paper]](http://proceedings.mlr.press/v80/shi18a/shi18a.pdf)
+[[pdf]](http://proceedings.mlr.press/v80/shi18a/shi18a.pdf)
 [[arxiv]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 
@@ -43,7 +45,7 @@ Message Passing Stein Variational Gradient Descent
 Jingwei Zhuo, Chang Liu, **Jiaxin Shi**, Jun Zhu, Ning Chen, and Bo Zhang.
 {: .mb-1}
 International Conference on Machine Learning (**ICML**), 2018. 
-[[paper]](http://proceedings.mlr.press/v80/zhuo18a/zhuo18a.pdf)
+[[pdf]](http://proceedings.mlr.press/v80/zhuo18a/zhuo18a.pdf)
 [[arxiv]](https://arxiv.org/abs/1711.04425)
 
 Kernel Implicit Variational Inference
@@ -51,7 +53,7 @@ Kernel Implicit Variational Inference
 **Jiaxin Shi**\*, Shengyang Sun\*, and Jun Zhu.
 {: .mb-1}
 International Conference on Learning Representations (**ICLR**), 2018.
-[[paper]](https://openreview.net/pdf?id=r1l4eQW0Z)
+[[pdf]](https://openreview.net/pdf?id=r1l4eQW0Z)
 [[arxiv]](https://arxiv.org/abs/1705.10119)
 
 ## Workshop Abstracts
