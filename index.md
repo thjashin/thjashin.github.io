@@ -38,7 +38,7 @@ A Spectral Approach to Gradient Estimation for Implicit Distributions
 **Jiaxin Shi**, Shengyang Sun, and Jun Zhu.
 {: .mb-1}
 International Conference on Machine Learning (**ICML**), 2018. 
-[[paper]](http://proceedings.mlr.press/v80/shi18a/shi18a.pdf)
+[[pdf]](http://proceedings.mlr.press/v80/shi18a/shi18a.pdf)
 [[arxiv]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 
@@ -47,7 +47,7 @@ Semi-crowdsourced Clustering with Deep Generative Models
 Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu and Bo Zhang. 
 {: .mb-1}
 Neural Information Processing Systems (**NIPS**), 2018.
-[[paper]](https://papers.nips.cc/paper/7583-semi-crowdsourced-clustering-with-deep-generative-models.pdf)
+[[pdf]](https://papers.nips.cc/paper/7583-semi-crowdsourced-clustering-with-deep-generative-models.pdf)
 [[arxiv]](https://arxiv.org/abs/1810.11971)
 [[code]](https://github.com/xinmei9322/semicrowd)
 
@@ -56,7 +56,7 @@ Message Passing Stein Variational Gradient Descent
 Jingwei Zhuo, Chang Liu, **Jiaxin Shi**, Jun Zhu, Ning Chen, and Bo Zhang.
 {: .mb-1}
 International Conference on Machine Learning (**ICML**), 2018. 
-[[paper]](http://proceedings.mlr.press/v80/zhuo18a/zhuo18a.pdf)
+[[pdf]](http://proceedings.mlr.press/v80/zhuo18a/zhuo18a.pdf)
 [[arxiv]](https://arxiv.org/abs/1711.04425)
 
 ## Software
