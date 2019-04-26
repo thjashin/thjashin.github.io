@@ -27,6 +27,8 @@ Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
 {: .mb-1}
 International Conference on Learning Representations (**ICLR**), 2019.
 [[pdf]](https://openreview.net/pdf?id=rkxacs0qY7)
+[[arxiv]](https://arxiv.org/abs/1903.05779)
+[[code]](https://github.com/ssydasheng/FBNN)
 
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
