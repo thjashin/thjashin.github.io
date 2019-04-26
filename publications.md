@@ -15,6 +15,12 @@ Arxiv, 2017.
 
 ## Conference Papers
 
+Scalable Training of Inference Networks for Gaussian-Process Models
+{: .fs-5 .mb-1 .text-grey-dk-300}
+**Jiaxin Shi**, Mohammad Emtiyaz Khan, and Jun Zhu.
+{: .mb-1}
+International Conference on Machine Learning (**ICML**), 2019. 
+
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.

@@ -21,6 +21,12 @@ I created and lead the development of [ZhuSuan](https://github.com/thu-ml/zhusua
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
+Scalable Training of Inference Networks for Gaussian-Process Models
+{: .fs-5 .mb-1 .text-grey-dk-300}
+**Jiaxin Shi**, Mohammad Emtiyaz Khan, and Jun Zhu.
+{: .mb-1}
+International Conference on Machine Learning (**ICML**), 2019.
+
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
@@ -45,14 +51,6 @@ Neural Information Processing Systems (**NeurIPS**), 2018.
 [[pdf]](https://papers.nips.cc/paper/7583-semi-crowdsourced-clustering-with-deep-generative-models.pdf)
 [[arxiv]](https://arxiv.org/abs/1810.11971)
 [[code]](https://github.com/xinmei9322/semicrowd)
-
-Message Passing Stein Variational Gradient Descent
-{: .fs-5 .mb-1 .text-grey-dk-300}
-Jingwei Zhuo, Chang Liu, **Jiaxin Shi**, Jun Zhu, Ning Chen, and Bo Zhang.
-{: .mb-1}
-International Conference on Machine Learning (**ICML**), 2018. 
-[[pdf]](http://proceedings.mlr.press/v80/zhuo18a/zhuo18a.pdf)
-[[arxiv]](https://arxiv.org/abs/1711.04425)
 
 ## Software
 
