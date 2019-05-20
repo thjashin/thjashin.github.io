@@ -45,6 +45,14 @@ International Conference on Machine Learning (**ICML**), 2018.
 [[arxiv]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 
+Sliced Score Matching: A Scalable Approach to Density and Score Estimation
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
+{: .mb-1}
+The 35th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2019.
+[[pdf]](https://arxiv.org/pdf/1905.07088)
+[[arxiv]](https://arxiv.org/abs/1905.07088)
+
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu and Bo Zhang. 

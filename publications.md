@@ -4,6 +4,8 @@ title: Publications
 nav_order: 2
 ---
 
+(\*) denotes equal contribution.
+
 ## Preprints & Working Papers
 
 ZhuSuan: A Library for Bayesian Deep Learning  
@@ -14,6 +16,14 @@ Arxiv, 2017.
 [[arxiv]](https://arxiv.org/abs/1709.05870)
 
 ## Conference Papers
+
+Sliced Score Matching: A Scalable Approach to Density and Score Estimation
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
+{: .mb-1}
+The 35th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2019.
+[[pdf]](https://arxiv.org/pdf/1905.07088)
+[[arxiv]](https://arxiv.org/abs/1905.07088)
 
 Scalable Training of Inference Networks for Gaussian-Process Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
