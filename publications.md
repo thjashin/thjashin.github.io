@@ -30,6 +30,9 @@ Scalable Training of Inference Networks for Gaussian-Process Models
 **Jiaxin Shi**, Mohammad Emtiyaz Khan, and Jun Zhu.
 {: .mb-1}
 International Conference on Machine Learning (**ICML**), 2019. 
+[[pdf]](https://arxiv.org/pdf/1905.10969.pdf)
+[[arxiv]](https://arxiv.org/abs/1905.10969)
+[[code]](https://github.com/thjashin/gp-infer-net)
 
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
