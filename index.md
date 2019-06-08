@@ -11,7 +11,7 @@ I am a PhD student (since 2015) in the Department of Computer Science at Tsinghu
 I have broad interests in probabilistic methods and approximate Bayesian inference, including and not limited to these topics: probabilistic kernel methods (e.g., Gaussian processes), spectral methods, variational inference, generative models, and Bayesian deep learning. 
 
 I'm currently a resesarch intern at [DeepMind](https://deepmind.com/), London. 
-Previously I was an intern at [RIKEN Center for Advanced Intelligence project](https://aip.riken.jp/). 
+Previously I was an intern at [RIKEN Center for Advanced Intelligence project](https://aip.riken.jp/), Tokyo. 
 I created and lead the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), an open-source probabilistic programming library. 
 I was awarded the [Microsoft Research Asia Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) for 2018. 
 I received my B.E. from the Department of Computer Science and Technology at Tsinghua University.
