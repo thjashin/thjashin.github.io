@@ -24,6 +24,7 @@ Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
 The 35th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2019.
 [[pdf]](https://arxiv.org/pdf/1905.07088)
 [[arxiv]](https://arxiv.org/abs/1905.07088)
+[[code]](https://github.com/ermongroup/sliced_score_matching)
 
 Scalable Training of Inference Networks for Gaussian-Process Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -79,11 +80,17 @@ International Conference on Learning Representations (**ICLR**), 2018.
 
 ## Workshop Abstracts
 
+Spectral Estimators for Gradient Fields of Log-Densities
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Yuhao Zhou, Jiaxin Shi, and Jun Zhu.
+{: .mb-1}
+ICML Workshop on Stein's Method, Long Beach, USA, 2018.
+
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
 {: .mb-1}
-NIPS Bayesian Deep Learning Workshop, Montréal, Canada, 2018.
+NeurIPS Bayesian Deep Learning Workshop, Montréal, Canada, 2018.
 [[pdf]](http://bayesiandeeplearning.org/2018/papers/12.pdf)
 
 Semi-crowdsourced Clustering with Deep Generative Models

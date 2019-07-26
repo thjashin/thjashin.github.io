@@ -10,7 +10,7 @@ permalink: /
 I am a PhD student (since 2015) in the Department of Computer Science at Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun). 
 I have broad interests in probabilistic methods and approximate Bayesian inference, including and not limited to these topics: probabilistic kernel methods (e.g., Gaussian processes), spectral methods, variational inference, generative models, and Bayesian deep learning. 
 
-I'm currently a resesarch intern at [DeepMind](https://deepmind.com/), London. 
+I'm currently a research intern at [DeepMind](https://deepmind.com/), London. 
 Previously I was an intern at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
 I created and lead the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), an open-source probabilistic programming library. 
 I was awarded the [Microsoft Research Asia Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) for 2018. 
@@ -60,6 +60,7 @@ Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
 The 35th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2019.
 [[pdf]](https://arxiv.org/pdf/1905.07088)
 [[arxiv]](https://arxiv.org/abs/1905.07088)
+[[code]](https://github.com/ermongroup/sliced_score_matching)
 
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
