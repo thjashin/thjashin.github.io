@@ -12,7 +12,6 @@ I have broad interests in probabilistic methods and approximate Bayesian inferen
 
 I'm currently a research intern at [DeepMind](https://deepmind.com/), London. 
 Previously I was an intern at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
-I created and lead the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), an open-source probabilistic programming library. 
 I was awarded the [Microsoft Research Asia Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) for 2018. 
 I received my B.E. from the Department of Computer Science and Technology at Tsinghua University.
 
@@ -73,11 +72,11 @@ Neural Information Processing Systems (**NeurIPS**), 2018.
 
 ## Software
 
-I created and lead the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), a probabilistic programming library with a particular focus on Bayesian deep learning. 
+I'm currently leading the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), a probabilistic programming library based on Tensorflow with a particular focus on Bayesian deep learning. 
 
-<img style=" width: 400px;margin: 0 0 0 0" src="{{site.url}}/assets/images/zhusuan.png">
 
 <!--
+<img style=" width: 400px;margin: 0 0 0 0" src="{{site.url}}/assets/images/zhusuan.png">
 ZhuSuan: A Library for Bayesian Deep Learning
 {: .fs-6 .fw-300 }
 
