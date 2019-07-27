@@ -84,7 +84,7 @@ Spectral Estimators for Gradient Fields of Log-Densities
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yuhao Zhou, Jiaxin Shi, and Jun Zhu.
 {: .mb-1}
-ICML Workshop on Stein's Method, Long Beach, USA, 2018.
+ICML Workshop on Stein's Method, Long Beach, USA, 2019.
 
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
