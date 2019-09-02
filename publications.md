@@ -82,7 +82,7 @@ International Conference on Learning Representations (**ICLR**), 2018.
 
 Spectral Estimators for Gradient Fields of Log-Densities
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Yuhao Zhou, Jiaxin Shi, and Jun Zhu.
+Yuhao Zhou, **Jiaxin Shi**, and Jun Zhu.
 {: .mb-1}
 ICML Workshop on Stein's Method, Long Beach, USA, 2019.
 
