@@ -72,8 +72,13 @@ Neural Information Processing Systems (**NeurIPS**), 2018.
 
 ## Software
 
-I'm currently leading the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), a probabilistic programming library based on Tensorflow with a particular focus on Bayesian deep learning. 
+I'm currently leading the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), a deep probabilistic programming library based on Tensorflow. 
 
+ZhuSuan: A Library for Bayesian Deep Learning
+{: .fs-5 .mb-1 .text-grey-dk-300}
+**Jiaxin Shi**, Jianfei Chen, Jun Zhu, Shengyang Sun, Yucen Luo, Yihong Gu, and Yuhao Zhou.
+{: .mb-1}
+Arxiv, 2017.
 
 <!--
 <img style=" width: 400px;margin: 0 0 0 0" src="{{site.url}}/assets/images/zhusuan.png">
@@ -84,7 +89,7 @@ ZhuSuan: A Library for Bayesian Deep Learning
 
 -->
 
-[[github]](https://github.com/thu-ml/zhusuan) [[docs]](https://zhusuan.readthedocs.io) [[white paper]](https://arxiv.org/abs/1709.05870)
+[[github]](https://github.com/thu-ml/zhusuan) [[docs]](https://zhusuan.readthedocs.io) [[arxiv]](https://arxiv.org/abs/1709.05870)
 
 ## Curriculum Vitae
 {: .d-inline-block :}

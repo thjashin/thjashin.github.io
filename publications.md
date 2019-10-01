@@ -6,15 +6,6 @@ nav_order: 2
 
 (\*) denotes equal contribution.
 
-## Preprints & Working Papers
-
-ZhuSuan: A Library for Bayesian Deep Learning  
-{: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Jianfei Chen, Jun Zhu, Shengyang Sun, Yucen Luo, Yihong Gu, and Yuhao Zhou.
-{: .mb-1}
-Arxiv, 2017.
-[[arxiv]](https://arxiv.org/abs/1709.05870)
-
 ## Conference Papers
 
 Sliced Score Matching: A Scalable Approach to Density and Score Estimation
