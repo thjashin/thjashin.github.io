@@ -8,10 +8,11 @@ permalink: /
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
 I am a PhD student (since 2015) in the Department of Computer Science at Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun). 
-I have broad interests in probabilistic methods and approximate Bayesian inference, including and not limited to these topics: probabilistic kernel methods (e.g., Gaussian processes), spectral methods, variational inference, generative models, and Bayesian deep learning. 
+My research interests are in the areas of probabilistic methods and approximate Bayesian inference. I have worked on topics including variational inference, Gaussian process, kernel/spectral methods, generative models, and Bayesian deep learning.
 
-I'm currently a research intern at [DeepMind](https://deepmind.com/), London. 
-Previously I was an intern at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
+I'm recently visiting [Vector Institute](https://vectorinstitute.ai/) until the end of the year.
+This summer I was a research scientist intern at [DeepMind](https://deepmind.com/), London. 
+Previously I was a research intern at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
 I was awarded the [Microsoft Research Asia Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) for 2018. 
 I received my B.E. from the Department of Computer Science and Technology at Tsinghua University.
 
