@@ -72,6 +72,7 @@ Neural Information Processing Systems (**NeurIPS**), 2018.
 [[code]](https://github.com/xinmei9322/semicrowd)
 
 ## Software
+{: .d-inline-block :}
 
 I'm currently leading the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), a deep probabilistic programming library based on Tensorflow. 
 
