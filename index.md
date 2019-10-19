@@ -7,8 +7,8 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a PhD student (since 2015) in the Department of Computer Science at Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun). 
-My research interests are in the areas of probabilistic methods and approximate Bayesian inference. I have worked on topics including variational inference, Gaussian process, kernel/spectral methods, generative models, and Bayesian deep learning.
+I am a PhD student (since 2015) in the Department of Computer Science at Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
+My research interests are in the area of probabilistic methods and approximate inference. I have worked on topics including variational inference, Gaussian process, kernel/spectral methods, generative models, and Bayesian deep learning. 
 
 I'm recently visiting [Vector Institute](https://vectorinstitute.ai/) until the end of the year.
 This summer I was a research scientist intern at [DeepMind](https://deepmind.com/), London. 
