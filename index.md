@@ -28,7 +28,7 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 
 Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Michalis K. Titsias, Andriy Mnih.
+**Jiaxin Shi**, Michalis K. Titsias, and Andriy Mnih.
 {: .mb-1}
 Preprint, 2019.
 [[pdf]](https://arxiv.org/pdf/1910.10596)

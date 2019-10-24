@@ -10,7 +10,7 @@ nav_order: 2
 
 Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Michalis K. Titsias, Andriy Mnih.
+**Jiaxin Shi**, Michalis K. Titsias, and Andriy Mnih.
 {: .mb-1}
 Arxiv, 2019.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
