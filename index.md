@@ -34,7 +34,7 @@ Preprint, 2019.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
 [[arxiv]](https://arxiv.org/abs/1910.10596)
 {: .mb-1}
-** Best Student Paper Run-Up ** at the [2nd Symposium on Advances in Approximate Bayesian Inference (AABI 2019)](http://approximateinference.org/).
+**Best Student Paper Run-Up** at the [2nd Symposium on Advances in Approximate Bayesian Inference (AABI 2019)](http://approximateinference.org/).
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
