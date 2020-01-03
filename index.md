@@ -34,7 +34,7 @@ Preprint, 2019.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
 [[arxiv]](https://arxiv.org/abs/1910.10596)
 {: .mb-1}
-Best Student Paper Run-Up at the [AABI 2019](http://approximateinference.org/).
+Best Student Paper Run-Up at [AABI 2019](http://approximateinference.org/).
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -70,7 +70,7 @@ I'm currently leading the development of [ZhuSuan](https://github.com/thu-ml/zhu
 
 ZhuSuan: A Library for Bayesian Deep Learning
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Jianfei Chen, Jun Zhu, Shengyang Sun, Yucen Luo, Yihong Gu, and Yuhao Zhou.
+**Jiaxin Shi**, Jianfei Chen, Jun Zhu, Shengyang Sun, Yucen Luo, Yihong Gu, and Yuhao Zhou, 2017
 {: .mb-1}
 
 <!--
