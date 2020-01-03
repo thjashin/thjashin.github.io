@@ -66,7 +66,7 @@ NeurIPS, 2018.
 ## Software
 {: .d-inline-block :}
 
-I'm currently leading the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), a deep probabilistic programming library based on Tensorflow. 
+I'm leading the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), a deep probabilistic programming library based on Tensorflow. 
 
 ZhuSuan: A Library for Bayesian Deep Learning
 {: .fs-5 .mb-1 .text-grey-dk-300}
