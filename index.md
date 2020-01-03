@@ -72,7 +72,6 @@ ZhuSuan: A Library for Bayesian Deep Learning
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Jianfei Chen, Jun Zhu, Shengyang Sun, Yucen Luo, Yihong Gu, and Yuhao Zhou.
 {: .mb-1}
-Arxiv, 2017.
 
 <!--
 <img style=" width: 400px;margin: 0 0 0 0" src="{{site.url}}/assets/images/zhusuan.png">
