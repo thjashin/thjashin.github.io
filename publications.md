@@ -131,14 +131,16 @@ Analyzing the Training Processes of Deep Generative Models
 Mengchen Liu, **Jiaxin Shi**, Kelei Cao, Jun Zhu, and Shixia Liu.
 {: .mb-1}
 IEEE Transactions on Visualization and Computer Graphics, 2018.
-[[paper]](http://shixialiu.com/publications/dgmtracker/paper.pdf)
+[[pdf]](http://shixialiu.com/publications/dgmtracker/paper.pdf)
 
 Towards Better Analysis of Deep Convolutional Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Mengchen Liu, **Jiaxin Shi**, Zhen Li, Chongxuan Li, Jun Zhu, and Shixia Liu.
 {: .mb-1}
-IEEE Transactions on Visualization and Computer Graphics, 2017. Most cited paper of TVCG 2017.
-[[paper]](http://shixialiu.com/publications/cnnvis/paper.pdf)
+IEEE Transactions on Visualization and Computer Graphics, 2017.
+[[pdf]](http://shixialiu.com/publications/cnnvis/paper.pdf)
+{: .mb-1}
+Most cited paper of TVCG 2017.
 
 Plenopatch: Patch-based Plenoptic Image Manipulation
 {: .fs-5 .mb-1 .text-grey-dk-300}
