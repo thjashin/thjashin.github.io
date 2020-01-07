@@ -6,17 +6,19 @@ nav_order: 2
 
 (\*) denotes equal contribution.
 
+<!--
 ## Preprints
+-->
+
+## Conference Papers
 
 Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Michalis K. Titsias, and Andriy Mnih.
 {: .mb-1}
-Arxiv, 2019.
+AISTATS, 2020.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
 [[arxiv]](https://arxiv.org/abs/1910.10596)
-
-## Conference Papers
 
 Sliced Score Matching: A Scalable Approach to Density and Score Estimation
 {: .fs-5 .mb-1 .text-grey-dk-300}
