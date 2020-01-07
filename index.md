@@ -34,7 +34,7 @@ AISTATS, 2020.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
 [[arxiv]](https://arxiv.org/abs/1910.10596)
 {: .mb-1}
-Best Student Paper Run-Up at [AABI 2019](http://approximateinference.org/).
+Best Student Paper Runner-Up at [AABI 2019](http://approximateinference.org/).
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
