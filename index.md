@@ -11,7 +11,7 @@ I am a PhD student (since 2015) in the Department of Computer Science at Tsinghu
 My research interests are in the area of probabilistic methods and approximate inference. 
 I have worked on topics including variational inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks. 
 
-Last year spent the summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and
+Last year I spent the summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and
 the rest of the year visiting [Vector Institute](https://vectorinstitute.ai/).
 I have also spent a summer interning at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
 In 2018, I was awarded the [Microsoft Research Asia Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). 
