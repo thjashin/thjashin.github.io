@@ -6,9 +6,12 @@ nav_order: 2
 
 ## Talks & Presentations
 
-* A Spectral Approach to Gradient Estimation for Implicit Distributions. Symposium on Machine Learning and Applications (MLA), Nanjing. Nov 3, 2018. [[pdf]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-mla-18.pdf)
-* Topics on natural gradient, variational inference, and catastrophic forgetting. Reading group. Oct 7, 2018. [[pdf]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ngvi-oct7-18.pdf)
+* [Function-space orthogonality in probabilistic learning](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/func-orth-fixed.pdf)
+<!-- * [Inference networks for Gaussian processes]() -->
+* [Natural gradient, variational inference, and catastrophic forgetting](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ngvi-oct7-18.pdf)
+* [A spectral approach to gradient estimation for implicit distributions](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-mla-18.pdf)
+* [Dimension reduction and Nystrom methods](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/dim-red-nystrom.pdf)
 
 ## Notes
 
-* Notes on deep belief networks (DBN). [[pdf]](http://ml.cs.tsinghua.edu.cn/~jiaxin/notes/dbn-notes.pdf)
+* [Notes on deep belief networks (DBN)](http://ml.cs.tsinghua.edu.cn/~jiaxin/notes/dbn-notes.pdf)
