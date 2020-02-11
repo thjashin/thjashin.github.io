@@ -49,7 +49,7 @@ ICLR, 2019.
 [[arxiv]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
 {: .mb-1}
-[Short version](http://bayesiandeeplearning.org/2018/papers/12.pdf) at [NeurIPS BDL Workshop](http://bayesiandeeplearning.org/), 2018.
+Preliminary version presented at [NeurIPS BDL Workshop](http://bayesiandeeplearning.org/), 2018.
 
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -60,7 +60,7 @@ NeurIPS, 2018.
 [[arxiv]](https://arxiv.org/abs/1810.11971)
 [[code]](https://github.com/xinmei9322/semicrowd)
 {: .mb-1}
-[Short version](https://drive.google.com/open?id=1waXNf7-Mko4A0WvGVnlMndRRvEMCT3YX) at [ICML TADGM Workshop](https://sites.google.com/view/tadgm/home), 2018.
+Preliminary version presented at [ICML TADGM Workshop](https://sites.google.com/view/tadgm/home), 2018.
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -130,21 +130,21 @@ Analyzing the Training Processes of Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Mengchen Liu, **Jiaxin Shi**, Kelei Cao, Jun Zhu, and Shixia Liu.
 {: .mb-1}
-IEEE Transactions on Visualization and Computer Graphics, 2018.
+TVCG, 2018.
 [[pdf]](http://shixialiu.com/publications/dgmtracker/paper.pdf)
 
 Towards Better Analysis of Deep Convolutional Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Mengchen Liu, **Jiaxin Shi**, Zhen Li, Chongxuan Li, Jun Zhu, and Shixia Liu.
 {: .mb-1}
-IEEE Transactions on Visualization and Computer Graphics, 2017.
+TVCG, 2017.
 [[pdf]](http://shixialiu.com/publications/cnnvis/paper.pdf)
 {: .mb-1}
-Most cited paper of TVCG 2017.
+Most cited paper of TVCG in 2017.
 
 Plenopatch: Patch-based Plenoptic Image Manipulation
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Fanglue Zhang, Jue Wang, Eli Shechtman, Ziye Zhou, **Jiaxin Shi**, and Shimin Hu.
 {: .mb-1}
-IEEE Transactions on Visualization and Computer Graphics, 2017.
+TVCG, 2017.
 [[paper]](https://ieeexplore.ieee.org/document/7414488)
