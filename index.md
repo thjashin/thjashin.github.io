@@ -27,6 +27,15 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
+Nonparametric Score Estimators
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Yuhao Zhou, **Jiaxin Shi**, and Jun Zhu.
+{: .mb-1}
+Preprint, 2020.
+[[pdf]](https://arxiv.org/pdf/2005.10099)
+[[arxiv]](https://arxiv.org/abs/2005.10099)
+[[code]](https://github.com/miskcoo/kscore)
+
 Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Michalis K. Titsias, and Andriy Mnih.
@@ -54,15 +63,6 @@ ICML, 2019.
 [[pdf]](https://arxiv.org/pdf/1905.10969.pdf)
 [[arxiv]](https://arxiv.org/abs/1905.10969)
 [[code]](https://github.com/thjashin/gp-infer-net)
-
-Semi-crowdsourced Clustering with Deep Generative Models
-{: .fs-5 .mb-1 .text-grey-dk-300}
-Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu and Bo Zhang. 
-{: .mb-1}
-NeurIPS, 2018.
-[[pdf]](https://arxiv.org/pdf/1810.11971.pdf)
-[[arxiv]](https://arxiv.org/abs/1810.11971)
-[[code]](https://github.com/xinmei9322/semicrowd)
 
 ## Software
 {: .d-inline-block :}
