@@ -31,7 +31,7 @@ Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yuhao Zhou, **Jiaxin Shi**, and Jun Zhu.
 {: .mb-1}
-Preprint, 2020.
+ICML, 2020.
 [[pdf]](https://arxiv.org/pdf/2005.10099)
 [[arxiv]](https://arxiv.org/abs/2005.10099)
 [[code]](https://github.com/miskcoo/kscore)
