@@ -67,23 +67,23 @@ ICML, 2019.
 ## Software
 {: .d-inline-block :}
 
-I'm leading the development of [ZhuSuan](https://github.com/thu-ml/zhusuan), a deep probabilistic programming library based on Tensorflow. 
+During my PhD I led the development of ZhuSuan ([github](https://github.com/thu-ml/zhusuan), [doc](https://zhusuan.readthedocs.io), [arxiv](https://arxiv.org/abs/1709.05870)), 
+an open-source probabilistic programming projects based on Tensorflow. 
 
+<!--
 ZhuSuan: A Library for Bayesian Deep Learning
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Jianfei Chen, Jun Zhu, Shengyang Sun, Yucen Luo, Yihong Gu, and Yuhao Zhou, 2017
 {: .mb-1}
 
-<!--
 <img style=" width: 400px;margin: 0 0 0 0" src="{{site.url}}/assets/images/zhusuan.png">
 ZhuSuan: A Library for Bayesian Deep Learning
 {: .fs-6 .fw-300 }
 
 [GitHub](https://github.com/thu-ml/zhusuan){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](https://zhusuan.readthedocs.io){: .btn .fs-5 }
-
 -->
 
-[[github]](https://github.com/thu-ml/zhusuan) [[docs]](https://zhusuan.readthedocs.io) [[arxiv]](https://arxiv.org/abs/1709.05870)
+
 
 ## Curriculum Vitae
 {: .d-inline-block :}
