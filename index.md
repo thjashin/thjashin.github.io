@@ -7,14 +7,14 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a PhD student (since 2015) in the Department of Computer Science at Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
-My research interests are in the area of probabilistic methods and approximate inference. 
-I have worked on topics including variational inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks. 
+I am a postdoctoral researcher at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
+My research interests are in probabilistic methods for machine learning. 
+I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks. 
 
+I obtained my Ph.D. in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
 Last year I spent the summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and
 the rest of the year visiting [Vector Institute](https://vectorinstitute.ai/).
 I have also spent a summer interning at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
-In 2018, I was awarded the [Microsoft Research Asia Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). 
 I received my B.E. from the Department of Computer Science and Technology at Tsinghua University.
 
 <a href="https://github.com/thjashin"><img style="vertical-align: middle; margin: 0 16px 0 12px" src="{{site.url}}/assets/images/github/GitHub-Mark-32px.png" >Github</a>
