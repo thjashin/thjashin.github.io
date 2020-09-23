@@ -68,7 +68,7 @@ ICML, 2019.
 {: .d-inline-block :}
 
 During my PhD I led the development of ZhuSuan [[github]](https://github.com/thu-ml/zhusuan) [[doc]](https://zhusuan.readthedocs.io) [[arxiv]](https://arxiv.org/abs/1709.05870), 
-an open-source probabilistic programming projects based on Tensorflow. 
+an open-source probabilistic programming project based on Tensorflow. 
 
 <!--
 ZhuSuan: A Library for Bayesian Deep Learning
