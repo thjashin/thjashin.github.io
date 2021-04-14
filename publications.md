@@ -103,6 +103,7 @@ Preliminary version presented at [ICML Workshop on Implicit Models](https://site
 Neural Networks as Inter-domain Inducing Points
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun*, **Jiaxin Shi**\*, Roger Grosse. 
+{: .mb-1}
 [Symposium on Advances in Approximate Bayesian Inference](http://approximateinference.org/), 2020.
 
 Spectral Estimators for Gradient Fields of Log-Densities
