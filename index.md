@@ -27,6 +27,14 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
+Neural Networks as Inter-domain Inducing Points
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Shengyang Sun*, **Jiaxin Shi**\*, Roger Grosse.
+[[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
+[[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
+{: .mb-1}
+[Symposium on Advances in Approximate Bayesian Inference](http://approximateinference.org/), 2020.
+
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yuhao Zhou, **Jiaxin Shi**, and Jun Zhu.
@@ -55,14 +63,6 @@ ICML, 2018.
 [[arxiv]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 
-Scalable Training of Inference Networks for Gaussian-Process Models
-{: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Mohammad Emtiyaz Khan, and Jun Zhu.
-{: .mb-1}
-ICML, 2019. 
-[[pdf]](https://arxiv.org/pdf/1905.10969.pdf)
-[[arxiv]](https://arxiv.org/abs/1905.10969)
-[[code]](https://github.com/thjashin/gp-infer-net)
 
 ## Software
 {: .d-inline-block :}
