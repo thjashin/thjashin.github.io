@@ -33,7 +33,7 @@ Shengyang Sun*, **Jiaxin Shi**\*, Roger Grosse.
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
 {: .mb-1}
-[Symposium on Advances in Approximate Bayesian Inference](http://approximateinference.org/), 2020.
+Symposium on Advances in Approximate Bayesian Inference, 2020.
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
