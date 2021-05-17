@@ -88,4 +88,4 @@ ZhuSuan: A Library for Bayesian Deep Learning
 ## Curriculum Vitae
 {: .d-inline-block :}
 
-My CV can be downloaded from this link: [[pdf]](http://ml.cs.tsinghua.edu.cn/~jiaxin/Curriculum_Vitae.pdf)
+My CV can be downloaded from this link: [[pdf]](http://thjashin.github.io/docs/Curriculum_Vitae.pdf).
