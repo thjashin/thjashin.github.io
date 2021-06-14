@@ -12,6 +12,15 @@ nav_order: 2
 
 ## Conference Papers
 
+Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Shengyang Sun, **Jiaxin Shi**, Andrew Gordon Wilson, Roger Grosse.
+{: .mb-1}
+ICML, 2021.
+[[pdf]](https://arxiv.org/pdf/2106.05992)
+[[arxiv]](https://arxiv.org/abs/2106.05992)
+[[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
+
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yuhao Zhou, **Jiaxin Shi**, and Jun Zhu.
@@ -20,6 +29,7 @@ ICML, 2020.
 [[pdf]](https://arxiv.org/pdf/2005.10099)
 [[arxiv]](https://arxiv.org/abs/2005.10099)
 [[code]](https://github.com/miskcoo/kscore)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~yuhao/slides/nonparametric%20score%20estimators,%20icml2020.pdf)
 
 Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -28,8 +38,10 @@ Sparse Orthogonal Variational Inference for Gaussian Processes
 AISTATS, 2020.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
 [[arxiv]](https://arxiv.org/abs/1910.10596)
+[[code]](https://github.com/thjashin/solvegp)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
 {: .mb-1}
-Best Student Paper Runner-Up at [AABI](http://approximateinference.org/) 2019.
+Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
 
 Sliced Score Matching: A Scalable Approach to Density and Score Estimation
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -39,6 +51,8 @@ UAI, 2019.
 [[pdf]](https://arxiv.org/pdf/1905.07088)
 [[arxiv]](https://arxiv.org/abs/1905.07088)
 [[code]](https://github.com/ermongroup/sliced_score_matching)
+[[video]](https://www.youtube.com/watch?v=lapaQrdYIWg)
+[[blog]](https://ermongroup.github.io/blog/ssm/)
 
 Scalable Training of Inference Networks for Gaussian-Process Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -48,6 +62,7 @@ ICML, 2019.
 [[pdf]](https://arxiv.org/pdf/1905.10969.pdf)
 [[arxiv]](https://arxiv.org/abs/1905.10969)
 [[code]](https://github.com/thjashin/gp-infer-net)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/gpnet-may30.pdf)
 
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -57,6 +72,7 @@ ICLR, 2019.
 [[pdf]](https://arxiv.org/pdf/1903.05779.pdf)
 [[arxiv]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
+[[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
 {: .mb-1}
 Preliminary version presented at [NeurIPS BDL Workshop](http://bayesiandeeplearning.org/), 2018.
 
@@ -79,6 +95,7 @@ ICML, 2018.
 [[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
 [[arxiv]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
 
 Message Passing Stein Variational Gradient Descent
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -104,6 +121,7 @@ Neural Networks as Inter-domain Inducing Points
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun*, **Jiaxin Shi**\*, Roger Grosse. 
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
+[[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
 {: .mb-1}
 [Symposium on Advances in Approximate Bayesian Inference](http://approximateinference.org/), 2020.
@@ -112,7 +130,7 @@ Spectral Estimators for Gradient Fields of Log-Densities
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yuhao Zhou, **Jiaxin Shi**, and Jun Zhu.
 {: .mb-1}
-[ICML Workshop on Stein's Method](https://steinworkshop.github.io/), Long Beach, USA, 2019.
+[ICML Workshop on Stein's Method](https://steinworkshop.github.io/), 2019.
 
 <!--
 Functional Variational Bayesian Neural Networks

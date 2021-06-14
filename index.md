@@ -27,41 +27,54 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
+Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Shengyang Sun, Jiaxin Shi, Andrew Gordon Wilson, Roger Grosse.
+{: .mb-1}
+ICML, 2021.
+[[pdf]](https://arxiv.org/pdf/2106.05992)
+[[arxiv]](https://arxiv.org/abs/2106.05992)
+[[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
+
 Neural Networks as Inter-domain Inducing Points
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Shengyang Sun*, **Jiaxin Shi**\*, Roger Grosse.
+Shengyang Sun*, Jiaxin Shi*, Roger Grosse. 
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
+[[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
 {: .mb-1}
-Symposium on Advances in Approximate Bayesian Inference, 2020.
+[AABI](http://approximateinference.org/), 2020.
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Yuhao Zhou, **Jiaxin Shi**, and Jun Zhu.
+Yuhao Zhou, Jiaxin Shi, and Jun Zhu.
 {: .mb-1}
 ICML, 2020.
 [[pdf]](https://arxiv.org/pdf/2005.10099)
 [[arxiv]](https://arxiv.org/abs/2005.10099)
 [[code]](https://github.com/miskcoo/kscore)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~yuhao/slides/nonparametric%20score%20estimators,%20icml2020.pdf)
 
 Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Michalis K. Titsias, and Andriy Mnih.
+Jiaxin Shi, Michalis K. Titsias, and Andriy Mnih.
 {: .mb-1}
 AISTATS, 2020.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
 [[arxiv]](https://arxiv.org/abs/1910.10596)
+[[code]](https://github.com/thjashin/solvegp)
 {: .mb-1}
-Best Student Paper Runner-Up at [AABI 2019](http://approximateinference.org/).
+Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Shengyang Sun, and Jun Zhu.
+Jiaxin Shi, Shengyang Sun, and Jun Zhu.
 {: .mb-1}
 ICML, 2018. 
-[[pdf]](https://arxiv.org/pdf/1806.02925)
+[[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
 [[arxiv]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
 
 
 ## Software
