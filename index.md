@@ -47,7 +47,7 @@ Shengyang Sun\*, Jiaxin Shi\*, Roger Grosse.
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Yuhao Zhou, Jiaxin Shi, and Jun Zhu.
+Yuhao Zhou, Jiaxin Shi, Jun Zhu.
 {: .mb-1}
 ICML, 2020.
 [[pdf]](https://arxiv.org/pdf/2005.10099)
@@ -57,7 +57,7 @@ ICML, 2020.
 
 Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Jiaxin Shi, Michalis K. Titsias, and Andriy Mnih.
+Jiaxin Shi, Michalis K. Titsias, Andriy Mnih.
 {: .mb-1}
 AISTATS, 2020.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
@@ -68,7 +68,7 @@ Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Jiaxin Shi, Shengyang Sun, and Jun Zhu.
+Jiaxin Shi, Shengyang Sun, Jun Zhu.
 {: .mb-1}
 ICML, 2018. 
 [[pdf]](https://arxiv.org/pdf/1806.02925.pdf)

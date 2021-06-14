@@ -23,7 +23,7 @@ ICML, 2021.
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Yuhao Zhou, **Jiaxin Shi**, and Jun Zhu.
+Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
 {: .mb-1}
 ICML, 2020.
 [[pdf]](https://arxiv.org/pdf/2005.10099)
@@ -33,7 +33,7 @@ ICML, 2020.
 
 Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Michalis K. Titsias, and Andriy Mnih.
+**Jiaxin Shi**, Michalis K. Titsias, Andriy Mnih.
 {: .mb-1}
 AISTATS, 2020.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
@@ -56,7 +56,7 @@ UAI, 2019.
 
 Scalable Training of Inference Networks for Gaussian-Process Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Mohammad Emtiyaz Khan, and Jun Zhu.
+**Jiaxin Shi**, Mohammad Emtiyaz Khan, Jun Zhu.
 {: .mb-1}
 ICML, 2019. 
 [[pdf]](https://arxiv.org/pdf/1905.10969.pdf)
@@ -78,7 +78,7 @@ Preliminary version presented at [NeurIPS BDL Workshop](http://bayesiandeeplearn
 
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu and Bo Zhang. 
+Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu, Bo Zhang. 
 {: .mb-1}
 NeurIPS, 2018.
 [[pdf]](https://arxiv.org/pdf/1810.11971.pdf)
@@ -89,7 +89,7 @@ Preliminary version presented at [ICML TADGM Workshop](https://sites.google.com/
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Shengyang Sun, and Jun Zhu.
+**Jiaxin Shi**, Shengyang Sun, Jun Zhu.
 {: .mb-1}
 ICML, 2018. 
 [[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
@@ -99,7 +99,7 @@ ICML, 2018.
 
 Message Passing Stein Variational Gradient Descent
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Jingwei Zhuo, Chang Liu, **Jiaxin Shi**, Jun Zhu, Ning Chen, and Bo Zhang.
+Jingwei Zhuo, Chang Liu, **Jiaxin Shi**, Jun Zhu, Ning Chen, Bo Zhang.
 {: .mb-1}
 ICML, 2018. 
 [[pdf]](http://proceedings.mlr.press/v80/zhuo18a/zhuo18a.pdf)
@@ -107,7 +107,7 @@ ICML, 2018.
 
 Kernel Implicit Variational Inference
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**\*, Shengyang Sun\*, and Jun Zhu.
+**Jiaxin Shi**\*, Shengyang Sun\*, Jun Zhu.
 {: .mb-1}
 ICLR, 2018.
 [[pdf]](https://arxiv.org/pdf/1705.10119.pdf)
@@ -128,7 +128,7 @@ Shengyang Sun*, **Jiaxin Shi**\*, Roger Grosse.
 
 Spectral Estimators for Gradient Fields of Log-Densities
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Yuhao Zhou, **Jiaxin Shi**, and Jun Zhu.
+Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
 {: .mb-1}
 [ICML Workshop on Stein's Method](https://steinworkshop.github.io/), 2019.
 
@@ -144,7 +144,7 @@ NeurIPS Bayesian Deep Learning Workshop, Montréal, Canada, 2018.
 <!--
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu and Bo Zhang.
+Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu, Bo Zhang.
 {: .mb-1}
 ICML Workshop on Theoretical Foundations and Applications of Deep Generative Models, Stockholm, Sweden, 2018.
 [[pdf]](https://drive.google.com/open?id=1waXNf7-Mko4A0WvGVnlMndRRvEMCT3YX)
@@ -153,7 +153,7 @@ ICML Workshop on Theoretical Foundations and Applications of Deep Generative Mod
 <!--
 Implicit Variational Inference with Kernel Density Ratio Fitting
 {: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Shengyang Sun and Jun Zhu.
+**Jiaxin Shi**, Shengyang Sun, Jun Zhu.
 {: .mb-1}
 ICML Workshop on Implicit Models, Sydney, Australia, 2017.
 [[pdf]](http://ml.cs.tsinghua.edu.cn/~jun/pub/implicit-vi-kdrf.pdf)
@@ -163,14 +163,14 @@ ICML Workshop on Implicit Models, Sydney, Australia, 2017.
 
 Analyzing the Training Processes of Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Mengchen Liu, **Jiaxin Shi**, Kelei Cao, Jun Zhu, and Shixia Liu.
+Mengchen Liu, **Jiaxin Shi**, Kelei Cao, Jun Zhu, Shixia Liu.
 {: .mb-1}
 TVCG, 2018.
 [[pdf]](http://shixialiu.com/publications/dgmtracker/paper.pdf)
 
 Towards Better Analysis of Deep Convolutional Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Mengchen Liu, **Jiaxin Shi**, Zhen Li, Chongxuan Li, Jun Zhu, and Shixia Liu.
+Mengchen Liu, **Jiaxin Shi**, Zhen Li, Chongxuan Li, Jun Zhu, Shixia Liu.
 {: .mb-1}
 TVCG, 2017.
 [[pdf]](http://shixialiu.com/publications/cnnvis/paper.pdf)
@@ -179,7 +179,7 @@ Most cited paper of TVCG in 2017.
 
 Plenopatch: Patch-based Plenoptic Image Manipulation
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Fanglue Zhang, Jue Wang, Eli Shechtman, Ziye Zhou, **Jiaxin Shi**, and Shimin Hu.
+Fanglue Zhang, Jue Wang, Eli Shechtman, Ziye Zhou, **Jiaxin Shi**, Shimin Hu.
 {: .mb-1}
 TVCG, 2017.
 [[paper]](https://ieeexplore.ieee.org/document/7414488)
