@@ -63,6 +63,7 @@ AISTATS, 2020.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
 [[arxiv]](https://arxiv.org/abs/1910.10596)
 [[code]](https://github.com/thjashin/solvegp)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
 {: .mb-1}
 Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
 
