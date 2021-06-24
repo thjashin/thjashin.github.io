@@ -8,7 +8,7 @@ nav_order: 2
 
 <!-- <!-- -->
 ## Preprints
-<!-- --> -->
+<!-- -->
 
 Sampling with Mirrored Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
