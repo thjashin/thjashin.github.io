@@ -27,6 +27,14 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
+Sampling with Mirrored Stein Operators
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Jiaxin Shi, Chang Liu, Lester Mackey.
+{: .mb-1}
+[[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
+[[arxiv]](https://arxiv.org/abs/2106.12506)
+[[code]](https://github.com/thjashin/mirror-stein-samplers)
+
 Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun, Jiaxin Shi, Andrew Gordon Wilson, Roger Grosse.
