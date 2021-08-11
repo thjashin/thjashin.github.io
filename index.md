@@ -22,7 +22,7 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 ## Research Highlights
 {: .d-inline-block :}
 
-<a href="{{site.url}}/publications.html" style="color:inherit;">MORE</a> 
+<a href="/publications.html" style="color:inherit;">MORE</a> 
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
