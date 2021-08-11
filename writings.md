@@ -6,7 +6,7 @@ nav_order: 2
 
 ## Talks
 
-* [Neural networks as inter-domain inducing points](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
+* [Neural networks as inter-domain inducing points](https://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 * [Function-space orthogonality in probabilistic learning](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/func-orth-fixed.pdf)
 * [Sparse orthogonal variational inference for Gaussian processes](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
 * [Inference networks for Gaussian processes](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/gpnet-may30.pdf)
