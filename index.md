@@ -7,7 +7,7 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a postdoctoral researcher in the [Machine Learning and Statistics group](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
+I am a postdoctoral researcher in the [Machine Learning and Statistics](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) group at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
 My research interests are in probabilistic methods for machine learning. 
 I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks. 
 
