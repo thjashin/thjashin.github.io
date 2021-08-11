@@ -7,13 +7,12 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a postdoctoral researcher at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
+I am a postdoctoral researcher in the [Machine Learning and Statistics group](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
 My research interests are in probabilistic methods for machine learning. 
 I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks. 
 
-I obtained my Ph.D. in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
-Last year I spent the summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and
-the rest of the year visiting [Vector Institute](https://vectorinstitute.ai/).
+I obtained my PhD in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
+During my PhD I have spent a summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and visited [Vector Institute](https://vectorinstitute.ai/).
 I have also spent a summer interning at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
 I received my B.E. from the Department of Computer Science and Technology at Tsinghua University.
 
