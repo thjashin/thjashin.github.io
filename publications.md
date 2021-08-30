@@ -18,6 +18,7 @@ Sampling with Mirrored Stein Operators
 [[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
 [[arxiv]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
+[[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 
 ## Conference Papers
 

@@ -34,6 +34,7 @@ Preprint, 2021.
 [[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
 [[arxiv]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
+[[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 
 Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
 {: .fs-5 .mb-1 .text-grey-dk-300}

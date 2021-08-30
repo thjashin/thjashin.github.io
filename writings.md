@@ -4,8 +4,9 @@ title: Writings
 nav_order: 2
 ---
 
-## Talks
+## Talk Slides
 
+* [Sampling with mirrored Stein operators](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 * [Neural networks as inter-domain inducing points](https://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 * [Function-space orthogonality in probabilistic learning](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/func-orth-fixed.pdf)
 * [Sparse orthogonal variational inference for Gaussian processes](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
