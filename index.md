@@ -19,7 +19,7 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 <a href="https://github.com/thjashin"><img style="vertical-align: middle; margin: 0 16px 0 12px" src="{{site.url}}/assets/images/github/GitHub-Mark-32px.png" >Github</a>
 <a href="https://twitter.com/thjashin"><img style="width:32px; vertical-align: middle; margin: 0 12px 0 16px" src="{{site.url}}/assets/images/twitter/Twitter_Logo_Blue.png" >Twitter</a>
 
-## Research Highlights
+## Selected Publications
 {: .d-inline-block :}
 
 <a href="/publications.html" style="color:inherit;">MORE</a> 
