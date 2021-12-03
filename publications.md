@@ -17,6 +17,7 @@ Michalis K. Titsias, **Jiaxin Shi**.
 2021.
 [[pdf]](https://arxiv.org/pdf/2111.05300.pdf)
 [[arxiv]](https://arxiv.org/abs/2111.05300)
+[[code]](https://github.com/thjashin/double-cv)
 
 Sampling with Mirrored Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
