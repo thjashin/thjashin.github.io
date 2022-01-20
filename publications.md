@@ -6,19 +6,9 @@ nav_order: 2
 
 (\*) denotes equal contribution.
 
-<!-- <!-- -->
+<!-- 
 ## Preprints
-<!-- -->
-
-Sampling with Mirrored Stein Operators
-{: .fs-5 .mb-1 .text-grey-dk-300}
-**Jiaxin Shi**, Chang Liu, Lester Mackey.
-{: .mb-1}
-2021.
-[[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
-[[arxiv]](https://arxiv.org/abs/2106.12506)
-[[code]](https://github.com/thjashin/mirror-stein-samplers)
-[[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
+-->
 
 ## Conference Papers
 
@@ -30,6 +20,16 @@ AISTATS, 2022.
 [[pdf]](https://arxiv.org/pdf/2111.05300.pdf)
 [[arxiv]](https://arxiv.org/abs/2111.05300)
 [[code]](https://github.com/thjashin/double-cv)
+
+Sampling with Mirrored Stein Operators
+{: .fs-5 .mb-1 .text-grey-dk-300}
+**Jiaxin Shi**, Chang Liu, Lester Mackey.
+{: .mb-1}
+ICLR, 2022.
+[[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
+[[arxiv]](https://arxiv.org/abs/2106.12506)
+[[code]](https://github.com/thjashin/mirror-stein-samplers)
+[[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 
 Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
 {: .fs-5 .mb-1 .text-grey-dk-300}
