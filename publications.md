@@ -10,7 +10,7 @@ nav_order: 2
 ## Preprints
 -->
 
-## Conference Papers
+## Refereed Conference Publications
 
 Double Control Variates for Gradient Estimation in Discrete Latent Variable Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -93,7 +93,7 @@ ICLR, 2019.
 [[code]](https://github.com/ssydasheng/FBNN)
 [[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
 {: .mb-1}
-Preliminary version presented at [NeurIPS BDL Workshop](http://bayesiandeeplearning.org/), 2018.
+<!-- Preliminary version presented at [NeurIPS BDL Workshop](http://bayesiandeeplearning.org/), 2018. -->
 
 Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -104,7 +104,7 @@ NeurIPS, 2018.
 [[arxiv]](https://arxiv.org/abs/1810.11971)
 [[code]](https://github.com/xinmei9322/semicrowd)
 {: .mb-1}
-Preliminary version presented at [ICML TADGM Workshop](https://sites.google.com/view/tadgm/home), 2018.
+<!-- Preliminary version presented at [ICML TADGM Workshop](https://sites.google.com/view/tadgm/home), 2018. -->
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -132,9 +132,9 @@ ICLR, 2018.
 [[pdf]](https://arxiv.org/pdf/1705.10119.pdf)
 [[arxiv]](https://arxiv.org/abs/1705.10119)
 {: .mb-1}
-Preliminary version presented at [ICML Workshop on Implicit Models](https://sites.google.com/view/implicitmodels/), 2017.
+<!-- Preliminary version presented at [ICML Workshop on Implicit Models](https://sites.google.com/view/implicitmodels/), 2017. -->
 
-## Other Abstracts
+## Workshop Papers
 
 Neural Networks as Inter-domain Inducing Points
 {: .fs-5 .mb-1 .text-grey-dk-300}
