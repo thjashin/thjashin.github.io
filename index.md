@@ -15,7 +15,7 @@ I obtained my PhD in Computer Science (2015-2020) from Tsinghua University, advi
 During my PhD I have spent a summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and visited [Vector Institute](https://vectorinstitute.ai/).
 I have also spent a summer interning at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
 I received my B.E. from the Department of Computer Science and Technology at Tsinghua University. 
-My CV can be downloaded from this link: [[pdf]](https://thjashin.github.io/docs/Curriculum_Vitae.pdf).
+<!-- My CV can be downloaded from this link: [[pdf]](https://thjashin.github.io/docs/Curriculum_Vitae.pdf). -->
 
 <a href="https://github.com/thjashin"><img style="vertical-align: middle; margin: 0 16px 0 12px" src="{{site.url}}/assets/images/github/GitHub-Mark-32px.png" >Github</a>
 <a href="https://twitter.com/thjashin"><img style="width:32px; vertical-align: middle; margin: 0 12px 0 16px" src="{{site.url}}/assets/images/twitter/Twitter_Logo_Blue.png" >Twitter</a>
