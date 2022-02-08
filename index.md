@@ -12,7 +12,7 @@ My research interests are in probabilistic methods for machine learning.
 I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks. 
 
 I obtained my PhD in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
-During my PhD I have spent a summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and visited [Vector Institute](https://vectorinstitute.ai/).
+During my graduate years I have spent a summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and visited [Vector Institute](https://vectorinstitute.ai/).
 I have also spent a summer interning at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
 I received my B.E. from the Department of Computer Science and Technology at Tsinghua University. 
 <!-- My CV can be downloaded from this link: [[pdf]](https://thjashin.github.io/docs/Curriculum_Vitae.pdf). -->
@@ -50,7 +50,7 @@ Neural Networks as Inter-domain Inducing Points
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun\*, Jiaxin Shi\*, Roger Grosse. 
 {: .mb-1}
-[AABI](http://approximateinference.org/), 2020.
+AABI, 2020.
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
@@ -91,8 +91,8 @@ ICML, 2018.
 ## Software
 {: .d-inline-block :}
 
-During my PhD I led the development of ZhuSuan [[github]](https://github.com/thu-ml/zhusuan) [[doc]](https://zhusuan.readthedocs.io) [[arxiv]](https://arxiv.org/abs/1709.05870), 
-an open-source probabilistic programming project based on Tensorflow. 
+During my PhD studies I led the development of ZhuSuan [[github]](https://github.com/thu-ml/zhusuan) [[doc]](https://zhusuan.readthedocs.io) [[arxiv]](https://arxiv.org/abs/1709.05870), 
+an open-source differentiable probabilistic programming project based on Tensorflow. 
 
 <!--
 ZhuSuan: A Library for Bayesian Deep Learning

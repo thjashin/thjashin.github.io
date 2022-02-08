@@ -92,7 +92,7 @@ ICLR, 2019.
 [[arxiv]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
 [[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
-{: .mb-1}
+<!-- {: .mb-1} -->
 <!-- Preliminary version presented at [NeurIPS BDL Workshop](http://bayesiandeeplearning.org/), 2018. -->
 
 Semi-crowdsourced Clustering with Deep Generative Models
@@ -103,7 +103,7 @@ NeurIPS, 2018.
 [[pdf]](https://arxiv.org/pdf/1810.11971.pdf)
 [[arxiv]](https://arxiv.org/abs/1810.11971)
 [[code]](https://github.com/xinmei9322/semicrowd)
-{: .mb-1}
+<!-- {: .mb-1} -->
 <!-- Preliminary version presented at [ICML TADGM Workshop](https://sites.google.com/view/tadgm/home), 2018. -->
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
@@ -131,7 +131,7 @@ Kernel Implicit Variational Inference
 ICLR, 2018.
 [[pdf]](https://arxiv.org/pdf/1705.10119.pdf)
 [[arxiv]](https://arxiv.org/abs/1705.10119)
-{: .mb-1}
+<!-- {: .mb-1} -->
 <!-- Preliminary version presented at [ICML Workshop on Implicit Models](https://sites.google.com/view/implicitmodels/), 2017. -->
 
 ## Workshop Papers
