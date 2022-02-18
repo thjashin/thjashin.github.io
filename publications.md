@@ -30,6 +30,8 @@ ICLR, 2022.
 [[arxiv]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
+{: .mb-1}
+Spotlight Presentation (top 5.1%). 
 
 Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -72,6 +74,8 @@ UAI, 2019.
 [[code]](https://github.com/ermongroup/sliced_score_matching)
 [[video]](https://www.youtube.com/watch?v=lapaQrdYIWg)
 [[blog]](https://ermongroup.github.io/blog/ssm/)
+{: .mb-1}
+Oral Presentation (top 8.7%). 
 
 Scalable Training of Inference Networks for Gaussian-Process Models
 {: .fs-5 .mb-1 .text-grey-dk-300}

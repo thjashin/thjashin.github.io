@@ -8,8 +8,9 @@ permalink: /
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
 I am a postdoctoral researcher in the [Machine Learning and Statistics](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) group at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
-My research interests are in probabilistic methods for machine learning. 
-I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks. 
+I work on probabilistic modeling and inference for machine learning. 
+My research aims at bridging the gap between data modeling (e.g., graphical models, Bayesian nonparametrics) and algorithmic modeling (e.g., neural networks, data-driven model selection) by addressing challenging inferential questions arising from the interface of them, such as variational methods and gradient estimation, post-selection inference, and predictive uncertainty estimation. 
+<!-- I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks.  -->
 
 I obtained my PhD in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
 During my graduate years I have spent a summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and visited [Vector Institute](https://vectorinstitute.ai/).
@@ -36,6 +37,7 @@ ICLR, 2022.
 [[arxiv]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
+Spotlight Presentation (5.1%)
 
 Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
 {: .fs-5 .mb-1 .text-grey-dk-300}
