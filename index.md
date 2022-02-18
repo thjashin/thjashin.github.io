@@ -38,6 +38,7 @@ ICLR, 2022.
 [[arxiv]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
+{: .mb-1}
 Spotlight Presentation (5.1%)
 
 Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
