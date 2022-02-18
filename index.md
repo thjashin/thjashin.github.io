@@ -10,7 +10,7 @@ permalink: /
 I am a postdoctoral researcher in the [Machine Learning and Statistics](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) group at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
 
 I work on probabilistic modeling and inference for machine learning. 
-My research aims at bridging the gap between data modeling (e.g., graphical models and Bayesian nonparametrics) and algorithmic modeling (e.g., neural networks and data-driven model selection) by addressing challenging inferential questions arising from the interface of them, such as variational inference and gradient estimation, post-selection inference, and predictive uncertainty estimation. 
+My research aims at bridging the gap between data modeling (e.g., graphical models and Bayesian nonparametrics) and algorithmic modeling (e.g., neural networks and data-driven model selection) by addressing challenging inferential questions at the interface of them, such as variational inference and gradient estimation, post-selection inference, and predictive uncertainty estimation. 
 <!-- I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks.  -->
 
 I obtained my PhD in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
