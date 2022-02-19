@@ -6,9 +6,15 @@ nav_order: 2
 
 (\*) denotes equal contribution.
 
-<!-- 
+
 ## Preprints
--->
+
+Gradient Estimation with Discrete Stein Operators
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
+{: .mb-1}
+Preprint.
+[[pdf]](https://thjashin.github.io/docs/rodeo.pdf)
 
 ## Refereed Conference Publications
 

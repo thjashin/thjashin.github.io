@@ -29,6 +29,13 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
+Gradient Estimation with Discrete Stein Operators
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
+{: .mb-1}
+Preprint.
+[[pdf]](https://thjashin.github.io/docs/rodeo.pdf)
+
 Sampling with Mirrored Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Jiaxin Shi, Chang Liu, Lester Mackey.
@@ -50,14 +57,14 @@ ICML, 2021.
 [[arxiv]](https://arxiv.org/abs/2106.05992)
 [[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
 
-Neural Networks as Inter-domain Inducing Points
+<!-- Neural Networks as Inter-domain Inducing Points
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun\*, Jiaxin Shi\*, Roger Grosse. 
 {: .mb-1}
 AABI, 2020.
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
-[[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
+[[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s) -->
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
