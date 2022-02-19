@@ -13,7 +13,7 @@ Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
 {: .mb-1}
-Preprint.
+Preprint, 2022.
 [[pdf]](https://thjashin.github.io/docs/rodeo.pdf)
 
 ## Refereed Conference Publications
