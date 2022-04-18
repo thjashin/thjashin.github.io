@@ -34,7 +34,18 @@ Gradient Estimation with Discrete Stein Operators
 Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
 {: .mb-1}
 Preprint, 2022.
-[[pdf]](https://thjashin.github.io/docs/rodeo.pdf)
+[[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
+[[arxiv]](https://arxiv.org/abs/2202.09497)
+[[code]](https://github.com/thjashin/rodeo)
+
+Double Control Variates for Gradient Estimation in Discrete Latent Variable Models
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Michalis K. Titsias, Jiaxin Shi.
+{: .mb-1}
+AISTATS, 2022.
+[[pdf]](https://arxiv.org/pdf/2111.05300.pdf)
+[[arxiv]](https://arxiv.org/abs/2111.05300)
+[[code]](https://github.com/thjashin/double-cv)
 
 Sampling with Mirrored Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
