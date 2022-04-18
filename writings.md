@@ -6,6 +6,7 @@ nav_order: 2
 
 ## Talk Slides
 
+* [Foundations of differentiable programming in probabilistic models](https://thjashin.github.io/talks/grad-est-apr-2022.pdf)
 * [Sampling with mirrored Stein operators](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 * [Neural networks as inter-domain inducing points](https://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 * [Function-space orthogonality in probabilistic learning](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/func-orth-fixed.pdf)
