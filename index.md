@@ -99,6 +99,29 @@ AISTATS, 2020.
 {: .mb-1}
 Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
 
+Sliced Score Matching: A Scalable Approach to Density and Score Estimation
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Yang Song\*, Sahaj Garg\*, Jiaxin Shi, Stefano Ermon.
+{: .mb-1}
+UAI, 2019.
+[[pdf]](https://arxiv.org/pdf/1905.07088)
+[[arxiv]](https://arxiv.org/abs/1905.07088)
+[[code]](https://github.com/ermongroup/sliced_score_matching)
+[[video]](https://www.youtube.com/watch?v=lapaQrdYIWg)
+[[blog]](https://ermongroup.github.io/blog/ssm/)
+{: .mb-1}
+Oral Presentation (top 8.7%). 
+
+Functional Variational Bayesian Neural Networks
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
+{: .mb-1}
+ICLR, 2019.
+[[pdf]](https://arxiv.org/pdf/1903.05779.pdf)
+[[arxiv]](https://arxiv.org/abs/1903.05779)
+[[code]](https://github.com/ssydasheng/FBNN)
+[[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
+
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Jiaxin Shi, Shengyang Sun, Jun Zhu.
