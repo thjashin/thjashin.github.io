@@ -114,7 +114,7 @@ Oral Presentation (top 8.7%).
 
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
+Shengyang Sun\*, Guodong Zhang\*, Jiaxin Shi\*, Roger Grosse.
 {: .mb-1}
 ICLR, 2019.
 [[pdf]](https://arxiv.org/pdf/1903.05779.pdf)
