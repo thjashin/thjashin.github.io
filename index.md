@@ -31,6 +31,7 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 
 
 ### Probabilistic Inference and Gradient Estimation
+---
 
 Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -63,6 +64,7 @@ ICLR, 2022.
 Spotlight Presentation (top 5.1%)
 
 ### Understanding Deep Learning, Representation Learning
+---
 
 NeuralEF: Deconstructing Kernels by Deep Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -83,6 +85,7 @@ AABI Symposium, 2020.
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
 
 ### Energy/Score-based Modeling
+---
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -118,6 +121,7 @@ ICML, 2018.
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
 
 ### Predictive Uncertainty Estimation
+---
 
 Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
 {: .fs-5 .mb-1 .text-grey-dk-300}
