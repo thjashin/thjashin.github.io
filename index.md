@@ -29,108 +29,126 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
+
+### Probabilistic Inference and Gradient Estimation
+
 Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
+**Jiaxin Shi**, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
 {: .mb-1}
 Preprint, 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
-[[arxiv]](https://arxiv.org/abs/2202.09497)
+[[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
 
 Double Control Variates for Gradient Estimation in Discrete Latent Variable Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Michalis K. Titsias, Jiaxin Shi.
+Michalis K. Titsias, **Jiaxin Shi**.
 {: .mb-1}
 AISTATS, 2022.
 [[pdf]](https://arxiv.org/pdf/2111.05300.pdf)
-[[arxiv]](https://arxiv.org/abs/2111.05300)
+[[abs]](https://arxiv.org/abs/2111.05300)
 [[code]](https://github.com/thjashin/double-cv)
 
 Sampling with Mirrored Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Jiaxin Shi, Chang Liu, Lester Mackey.
+**Jiaxin Shi**, Chang Liu, Lester Mackey.
 {: .mb-1}
 ICLR, 2022.
 [[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
-[[arxiv]](https://arxiv.org/abs/2106.12506)
+[[abs]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 {: .mb-1}
 Spotlight Presentation (top 5.1%)
 
-Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
-{: .fs-5 .mb-1 .text-grey-dk-300}
-Shengyang Sun, Jiaxin Shi, Andrew Gordon Wilson, Roger Grosse.
-{: .mb-1}
-ICML, 2021.
-[[pdf]](https://arxiv.org/pdf/2106.05992)
-[[arxiv]](https://arxiv.org/abs/2106.05992)
-[[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
+### Understanding Deep Learning, Representation Learning
 
-<!-- Neural Networks as Inter-domain Inducing Points
+NeuralEF: Deconstructing Kernels by Deep Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Shengyang Sun\*, Jiaxin Shi\*, Roger Grosse. 
+Zhijie Deng, **Jiaxin Shi**, Jun Zhu. 
 {: .mb-1}
-AABI, 2020.
+ICML, 2022.
+[[pdf]](https://arxiv.org/pdf/2205.00165.pdf)
+[[abs]](https://arxiv.org/abs/2205.00165)
+[[code]](https://github.com/thudzj/NeuralEigenFunction)
+
+Neural Networks as Inter-domain Inducing Points
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Shengyang Sun\*, **Jiaxin Shi**\*, Roger Grosse. 
+{: .mb-1}
+AABI Symposium, 2020.
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
-[[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s) -->
+[[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
+
+### Energy/Score-based Modeling
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Yuhao Zhou, Jiaxin Shi, Jun Zhu.
+Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
 {: .mb-1}
 ICML, 2020.
 [[pdf]](https://arxiv.org/pdf/2005.10099)
-[[arxiv]](https://arxiv.org/abs/2005.10099)
+[[abs]](https://arxiv.org/abs/2005.10099)
 [[code]](https://github.com/miskcoo/kscore)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~yuhao/slides/nonparametric%20score%20estimators,%20icml2020.pdf)
 
-Sparse Orthogonal Variational Inference for Gaussian Processes
-{: .fs-5 .mb-1 .text-grey-dk-300}
-Jiaxin Shi, Michalis K. Titsias, Andriy Mnih.
-{: .mb-1}
-AISTATS, 2020.
-[[pdf]](https://arxiv.org/pdf/1910.10596)
-[[arxiv]](https://arxiv.org/abs/1910.10596)
-[[code]](https://github.com/thjashin/solvegp)
-[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
-{: .mb-1}
-Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
-
 Sliced Score Matching: A Scalable Approach to Density and Score Estimation
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Yang Song\*, Sahaj Garg\*, Jiaxin Shi, Stefano Ermon.
+Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
 {: .mb-1}
 UAI, 2019.
 [[pdf]](https://arxiv.org/pdf/1905.07088)
-[[arxiv]](https://arxiv.org/abs/1905.07088)
+[[abs]](https://arxiv.org/abs/1905.07088)
 [[code]](https://github.com/ermongroup/sliced_score_matching)
 [[video]](https://www.youtube.com/watch?v=lapaQrdYIWg)
 [[blog]](https://ermongroup.github.io/blog/ssm/)
 {: .mb-1}
 Oral Presentation (top 8.7%). 
 
-Functional Variational Bayesian Neural Networks
-{: .fs-5 .mb-1 .text-grey-dk-300}
-Shengyang Sun\*, Guodong Zhang\*, Jiaxin Shi\*, Roger Grosse.
-{: .mb-1}
-ICLR, 2019.
-[[pdf]](https://arxiv.org/pdf/1903.05779.pdf)
-[[arxiv]](https://arxiv.org/abs/1903.05779)
-[[code]](https://github.com/ssydasheng/FBNN)
-[[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
-
 A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Jiaxin Shi, Shengyang Sun, Jun Zhu.
+**Jiaxin Shi**, Shengyang Sun, Jun Zhu.
 {: .mb-1}
 ICML, 2018. 
 [[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
-[[arxiv]](https://arxiv.org/abs/1806.02925)
+[[abs]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
+
+### Predictive Uncertainty Estimation
+
+Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Shengyang Sun, **Jiaxin Shi**, Andrew Gordon Wilson, Roger Grosse.
+{: .mb-1}
+ICML, 2021.
+[[pdf]](https://arxiv.org/pdf/2106.05992)
+[[abs]](https://arxiv.org/abs/2106.05992)
+[[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
+
+Sparse Orthogonal Variational Inference for Gaussian Processes
+{: .fs-5 .mb-1 .text-grey-dk-300}
+**Jiaxin Shi**, Michalis K. Titsias, Andriy Mnih.
+{: .mb-1}
+AISTATS, 2020.
+[[pdf]](https://arxiv.org/pdf/1910.10596)
+[[abs]](https://arxiv.org/abs/1910.10596)
+[[code]](https://github.com/thjashin/solvegp)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
+{: .mb-1}
+Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
+
+Functional Variational Bayesian Neural Networks
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
+{: .mb-1}
+ICLR, 2019.
+[[pdf]](https://arxiv.org/pdf/1903.05779.pdf)
+[[abs]](https://arxiv.org/abs/1903.05779)
+[[code]](https://github.com/ssydasheng/FBNN)
+[[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
 
 
 ## Software

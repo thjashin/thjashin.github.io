@@ -15,10 +15,19 @@ Gradient Estimation with Discrete Stein Operators
 {: .mb-1}
 Preprint, 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
-[[arxiv]](https://arxiv.org/abs/2202.09497)
+[[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
 
 ## Refereed Conference Publications
+
+NeuralEF: Deconstructing Kernels by Deep Neural Networks
+{: .fs-5 .mb-1 .text-grey-dk-300}
+Zhijie Deng, **Jiaxin Shi**, Jun Zhu. 
+{: .mb-1}
+ICML, 2022.
+[[pdf]](https://arxiv.org/pdf/2205.00165.pdf)
+[[abs]](https://arxiv.org/abs/2205.00165)
+[[code]](https://github.com/thudzj/NeuralEigenFunction)
 
 Double Control Variates for Gradient Estimation in Discrete Latent Variable Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -26,7 +35,7 @@ Michalis K. Titsias, **Jiaxin Shi**.
 {: .mb-1}
 AISTATS, 2022.
 [[pdf]](https://arxiv.org/pdf/2111.05300.pdf)
-[[arxiv]](https://arxiv.org/abs/2111.05300)
+[[abs]](https://arxiv.org/abs/2111.05300)
 [[code]](https://github.com/thjashin/double-cv)
 
 Sampling with Mirrored Stein Operators
@@ -35,7 +44,7 @@ Sampling with Mirrored Stein Operators
 {: .mb-1}
 ICLR, 2022.
 [[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
-[[arxiv]](https://arxiv.org/abs/2106.12506)
+[[abs]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 {: .mb-1}
@@ -47,7 +56,7 @@ Shengyang Sun, **Jiaxin Shi**, Andrew Gordon Wilson, Roger Grosse.
 {: .mb-1}
 ICML, 2021.
 [[pdf]](https://arxiv.org/pdf/2106.05992)
-[[arxiv]](https://arxiv.org/abs/2106.05992)
+[[abs]](https://arxiv.org/abs/2106.05992)
 [[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
 
 Nonparametric Score Estimators
@@ -56,7 +65,7 @@ Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
 {: .mb-1}
 ICML, 2020.
 [[pdf]](https://arxiv.org/pdf/2005.10099)
-[[arxiv]](https://arxiv.org/abs/2005.10099)
+[[abs]](https://arxiv.org/abs/2005.10099)
 [[code]](https://github.com/miskcoo/kscore)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~yuhao/slides/nonparametric%20score%20estimators,%20icml2020.pdf)
 
@@ -66,7 +75,7 @@ Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .mb-1}
 AISTATS, 2020.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
-[[arxiv]](https://arxiv.org/abs/1910.10596)
+[[abs]](https://arxiv.org/abs/1910.10596)
 [[code]](https://github.com/thjashin/solvegp)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
 {: .mb-1}
@@ -78,7 +87,7 @@ Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
 {: .mb-1}
 UAI, 2019.
 [[pdf]](https://arxiv.org/pdf/1905.07088)
-[[arxiv]](https://arxiv.org/abs/1905.07088)
+[[abs]](https://arxiv.org/abs/1905.07088)
 [[code]](https://github.com/ermongroup/sliced_score_matching)
 [[video]](https://www.youtube.com/watch?v=lapaQrdYIWg)
 [[blog]](https://ermongroup.github.io/blog/ssm/)
@@ -91,7 +100,7 @@ Scalable Training of Inference Networks for Gaussian-Process Models
 {: .mb-1}
 ICML, 2019. 
 [[pdf]](https://arxiv.org/pdf/1905.10969.pdf)
-[[arxiv]](https://arxiv.org/abs/1905.10969)
+[[abs]](https://arxiv.org/abs/1905.10969)
 [[code]](https://github.com/thjashin/gp-infer-net)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/gpnet-may30.pdf)
 
@@ -101,7 +110,7 @@ Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
 {: .mb-1}
 ICLR, 2019.
 [[pdf]](https://arxiv.org/pdf/1903.05779.pdf)
-[[arxiv]](https://arxiv.org/abs/1903.05779)
+[[abs]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
 [[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
 <!-- {: .mb-1} -->
@@ -113,7 +122,7 @@ Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu, Bo Zhang.
 {: .mb-1}
 NeurIPS, 2018.
 [[pdf]](https://arxiv.org/pdf/1810.11971.pdf)
-[[arxiv]](https://arxiv.org/abs/1810.11971)
+[[abs]](https://arxiv.org/abs/1810.11971)
 [[code]](https://github.com/xinmei9322/semicrowd)
 <!-- {: .mb-1} -->
 <!-- Preliminary version presented at [ICML TADGM Workshop](https://sites.google.com/view/tadgm/home), 2018. -->
@@ -124,7 +133,7 @@ A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .mb-1}
 ICML, 2018. 
 [[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
-[[arxiv]](https://arxiv.org/abs/1806.02925)
+[[abs]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
 
@@ -134,7 +143,7 @@ Jingwei Zhuo, Chang Liu, **Jiaxin Shi**, Jun Zhu, Ning Chen, Bo Zhang.
 {: .mb-1}
 ICML, 2018. 
 [[pdf]](http://proceedings.mlr.press/v80/zhuo18a/zhuo18a.pdf)
-[[arxiv]](https://arxiv.org/abs/1711.04425)
+[[abs]](https://arxiv.org/abs/1711.04425)
 
 Kernel Implicit Variational Inference
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -142,7 +151,7 @@ Kernel Implicit Variational Inference
 {: .mb-1}
 ICLR, 2018.
 [[pdf]](https://arxiv.org/pdf/1705.10119.pdf)
-[[arxiv]](https://arxiv.org/abs/1705.10119)
+[[abs]](https://arxiv.org/abs/1705.10119)
 <!-- {: .mb-1} -->
 <!-- Preliminary version presented at [ICML Workshop on Implicit Models](https://sites.google.com/view/implicitmodels/), 2017. -->
 
