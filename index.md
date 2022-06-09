@@ -33,7 +33,7 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 ### Probabilistic Inference and Gradient Estimation
 
 Gradient Estimation with Discrete Stein Operators
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
 {: .mb-1}
 Preprint, 2022.
@@ -42,7 +42,7 @@ Preprint, 2022.
 [[code]](https://github.com/thjashin/rodeo)
 
 Double Control Variates for Gradient Estimation in Discrete Latent Variable Models
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 Michalis K. Titsias, **Jiaxin Shi**.
 {: .mb-1}
 AISTATS, 2022.
@@ -51,7 +51,7 @@ AISTATS, 2022.
 [[code]](https://github.com/thjashin/double-cv)
 
 Sampling with Mirrored Stein Operators
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Chang Liu, Lester Mackey.
 {: .mb-1}
 ICLR, 2022.
@@ -61,12 +61,11 @@ ICLR, 2022.
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 {: .mb-1}
 Spotlight Presentation (top 5.1%)
-{: .mb-3}
 
 ### Understanding Deep Learning, Representation Learning
 
 NeuralEF: Deconstructing Kernels by Deep Neural Networks
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 Zhijie Deng, **Jiaxin Shi**, Jun Zhu. 
 {: .mb-1}
 ICML, 2022.
@@ -75,19 +74,18 @@ ICML, 2022.
 [[code]](https://github.com/thudzj/NeuralEigenFunction)
 
 Neural Networks as Inter-domain Inducing Points
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 Shengyang Sun\*, **Jiaxin Shi**\*, Roger Grosse. 
 {: .mb-1}
 AABI Symposium, 2020.
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
-{: .mb-3}
 
 ### Energy/Score-based Modeling
 
 Nonparametric Score Estimators
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
 {: .mb-1}
 ICML, 2020.
@@ -97,7 +95,7 @@ ICML, 2020.
 [[slides]](http://ml.cs.tsinghua.edu.cn/~yuhao/slides/nonparametric%20score%20estimators,%20icml2020.pdf)
 
 Sliced Score Matching: A Scalable Approach to Density and Score Estimation
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
 {: .mb-1}
 UAI, 2019.
@@ -110,7 +108,7 @@ UAI, 2019.
 Oral Presentation (top 8.7%). 
 
 A Spectral Approach to Gradient Estimation for Implicit Distributions
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Shengyang Sun, Jun Zhu.
 {: .mb-1}
 ICML, 2018. 
@@ -118,12 +116,11 @@ ICML, 2018.
 [[abs]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
-{: .mb-3}
 
 ### Predictive Uncertainty Estimation
 
 Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 Shengyang Sun, **Jiaxin Shi**, Andrew Gordon Wilson, Roger Grosse.
 {: .mb-1}
 ICML, 2021.
@@ -132,7 +129,7 @@ ICML, 2021.
 [[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
 
 Sparse Orthogonal Variational Inference for Gaussian Processes
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Michalis K. Titsias, Andriy Mnih.
 {: .mb-1}
 AISTATS, 2020.
@@ -144,7 +141,7 @@ AISTATS, 2020.
 Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
 
 Functional Variational Bayesian Neural Networks
-{: .fs-5 .mb-1 .text-grey-dk-300}
+{: .fs-5 .mb-1 .text-grey-dk-200}
 Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
 {: .mb-1}
 ICLR, 2019.
@@ -152,7 +149,6 @@ ICLR, 2019.
 [[abs]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
 [[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
-{: .mb-3}
 
 ## Software
 {: .d-inline-block :}
