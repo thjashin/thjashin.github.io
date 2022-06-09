@@ -31,7 +31,6 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 
 
 ### Probabilistic Inference and Gradient Estimation
----
 
 Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -62,9 +61,9 @@ ICLR, 2022.
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 {: .mb-1}
 Spotlight Presentation (top 5.1%)
+{: .mb-1}
 
 ### Understanding Deep Learning, Representation Learning
----
 
 NeuralEF: Deconstructing Kernels by Deep Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -83,9 +82,9 @@ AABI Symposium, 2020.
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
+{: .mb-1}
 
 ### Energy/Score-based Modeling
----
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -119,9 +118,9 @@ ICML, 2018.
 [[abs]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
+{: .mb-1}
 
 ### Predictive Uncertainty Estimation
----
 
 Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
 {: .fs-5 .mb-1 .text-grey-dk-300}
@@ -153,7 +152,7 @@ ICLR, 2019.
 [[abs]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
 [[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
-
+{: .mb-1}
 
 ## Software
 {: .d-inline-block :}
