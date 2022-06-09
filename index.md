@@ -61,7 +61,7 @@ ICLR, 2022.
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 {: .mb-1}
 Spotlight Presentation (top 5.1%)
-{: .mb-1}
+{: .mb-3}
 
 ### Understanding Deep Learning, Representation Learning
 
@@ -82,7 +82,7 @@ AABI Symposium, 2020.
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
-{: .mb-1}
+{: .mb-3}
 
 ### Energy/Score-based Modeling
 
@@ -118,7 +118,7 @@ ICML, 2018.
 [[abs]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
-{: .mb-1}
+{: .mb-3}
 
 ### Predictive Uncertainty Estimation
 
@@ -152,7 +152,7 @@ ICLR, 2019.
 [[abs]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
 [[video]](https://slideslive.com/38922672/invited-talk-functional-variational-bayesian-neural-networks)
-{: .mb-1}
+{: .mb-3}
 
 ## Software
 {: .d-inline-block :}
