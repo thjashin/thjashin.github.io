@@ -82,7 +82,7 @@ AABI Symposium, 2020.
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
 
-### Energy/Score-based Modeling
+### Energy/Score-based Learning
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-200}
