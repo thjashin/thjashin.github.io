@@ -7,12 +7,12 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a postdoctoral researcher in the [Machine Learning and Statistics](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) group at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
-
+I am a postdoctoral researcher with [Emily B. Fox](https://statistics.stanford.edu/people/emily-b-fox)'s group at Stanford. 
 I work on probabilistic modeling and inference for machine learning. 
 My research aims at bridging the gap between data modeling (e.g., graphical models and Bayesian nonparametrics) and algorithmic modeling (e.g., neural networks and spectral methods) by addressing challenging inferential questions at the interface of them, such as variational inference and gradient estimation, sampling and optimization, score-based learning, and predictive uncertainty estimation. 
 <!-- I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks.  -->
 
+Before moving to Stanford I spent two wonderful years (1 year remotely) with the [Machine Learning and Statistics](group) group at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
 I obtained my PhD in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
 During my graduate years I have spent a summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and visited [Vector Institute](https://vectorinstitute.ai/).
 I have also spent a summer interning at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
