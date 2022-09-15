@@ -22,6 +22,13 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 <a href="https://github.com/thjashin"><img style="vertical-align: middle; margin: 0 16px 0 12px" src="{{site.url}}/assets/images/github/GitHub-Mark-32px.png" >Github</a>
 <a href="https://twitter.com/thjashin"><img style="width:32px; vertical-align: middle; margin: 0 12px 0 16px" src="{{site.url}}/assets/images/twitter/Twitter_Logo_Blue.png" >Twitter</a>
 
+
+## News
+{: .d-inline-block :}
+
+* I am a area chair for [AISTATS 2023](http://aistats.org/aistats2023/).
+
+
 ## Selected Publications
 {: .d-inline-block :}
 
@@ -36,7 +43,7 @@ Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
 {: .mb-1}
-Preprint, 2022.
+NeurIPS, 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
