@@ -6,19 +6,20 @@ nav_order: 2
 
 (\*) denotes equal contribution.
 
-
+<!--
 ## Preprints
+-->
+
+## Refereed Conference Publications
 
 Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
 {: .mb-1}
-Preprint, 2022.
+NeurIPS, 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
-
-## Refereed Conference Publications
 
 NeuralEF: Deconstructing Kernels by Deep Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
