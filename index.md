@@ -26,7 +26,7 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 ## News
 {: .d-inline-block :}
 
-* I am a area chair for [AISTATS 2023](http://aistats.org/aistats2023/).
+* I am an area chair for [AISTATS 2023](http://aistats.org/aistats2023/).
 
 
 ## Selected Publications
