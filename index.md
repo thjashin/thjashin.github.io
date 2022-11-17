@@ -47,6 +47,7 @@ NeurIPS, 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
+{: .mb-1}
 Spotlight Presentation
 
 Double Control Variates for Gradient Estimation in Discrete Latent Variable Models
