@@ -27,7 +27,7 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 {: .d-inline-block :}
 
 * I am an area chair for [AISTATS 2023](http://aistats.org/aistats2023/).
-
+* I am a [top reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee) for [NeurIPS 2022](https://neurips.cc/).
 
 ## Selected Publications
 {: .d-inline-block :}
@@ -47,6 +47,7 @@ NeurIPS, 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
+Spotlight Presentation
 
 Double Control Variates for Gradient Estimation in Discrete Latent Variable Models
 {: .fs-5 .mb-1 .text-grey-dk-200}
@@ -70,6 +71,15 @@ ICLR, 2022.
 Spotlight Presentation (top 5.1%)
 
 ### Understanding Deep Learning, Representation Learning
+
+Neural Eigenfunctions Are Structured Representation Learners
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Zhijie Deng\*, **Jiaxin Shi**\*, Hao Zhang, Peng Cui, Cewu Lu, Jun Zhu. 
+{: .mb-1}
+Preprint, 2022.
+[[pdf]](https://arxiv.org/pdf/2210.12637.pdf)
+[[abs]](https://arxiv.org/abs/2210.12637)
+<!-- [[code]](https://github.com/thudzj/NeuralEigenFunction) -->
 
 NeuralEF: Deconstructing Kernels by Deep Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-200}
