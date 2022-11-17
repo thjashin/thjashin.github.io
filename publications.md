@@ -17,7 +17,6 @@ Preprint, 2022.
 [[pdf]](https://arxiv.org/pdf/2210.12637.pdf)
 [[abs]](https://arxiv.org/abs/2210.12637)
 <!-- [[code]](https://github.com/thudzj/NeuralEigenFunction) -->
-Spotlight Presentation. 
 
 ## Refereed Conference Publications
 
@@ -29,6 +28,8 @@ NeurIPS, 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
+{: .mb-1}
+Spotlight Presentation
 
 NeuralEF: Deconstructing Kernels by Deep Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
