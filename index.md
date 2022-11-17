@@ -48,7 +48,7 @@ NeurIPS, 2022.
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
 {: .mb-1}
-Spotlight Presentation
+Spotlight Presentation. 
 
 Double Control Variates for Gradient Estimation in Discrete Latent Variable Models
 {: .fs-5 .mb-1 .text-grey-dk-200}
@@ -69,7 +69,7 @@ ICLR, 2022.
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 {: .mb-1}
-Spotlight Presentation (top 5.1%)
+Spotlight Presentation (top 5.1%). 
 
 ### Understanding Deep Learning, Representation Learning
 
