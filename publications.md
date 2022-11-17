@@ -29,7 +29,7 @@ NeurIPS, 2022.
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
 {: .mb-1}
-Spotlight Presentation
+Spotlight Presentation.
 
 NeuralEF: Deconstructing Kernels by Deep Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
