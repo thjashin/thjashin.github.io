@@ -39,6 +39,14 @@ I received my B.E. from the Department of Computer Science and Technology at Tsi
 
 ### Probabilistic Inference and Gradient Estimation
 
+A Finite-Particle Convergence Rate for Stein Variational Gradient Descent
+{: .fs-5 .mb-1 .text-grey-dk-200}
+**Jiaxin Shi**, Lester Mackey. 
+{: .mb-1}
+Preprint, 2022.
+[[pdf]](https://arxiv.org/pdf/2211.09721.pdf)
+[[abs]](https://arxiv.org/abs/2211.09721)
+
 Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
