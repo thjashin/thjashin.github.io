@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-<img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
+<img style="width:200px;float:right;margin:0 0px 12px 12px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
 I am a postdoctoral researcher working with [Emily B. Fox](https://statistics.stanford.edu/people/emily-b-fox) at Stanford University. 
 I work on probabilistic modeling and inference for machine learning. 
