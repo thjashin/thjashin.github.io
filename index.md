@@ -7,16 +7,16 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 16px 16px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a postdoctoral researcher in [Emily B. Fox](https://statistics.stanford.edu/people/emily-b-fox)'s group at Stanford University. 
+I am a postdoctoral researcher working with [Emily B. Fox](https://statistics.stanford.edu/people/emily-b-fox) at Stanford University. 
 I work on probabilistic modeling and inference for machine learning. 
 My research aims at bridging the gap between data modeling (e.g., graphical models and Bayesian nonparametrics) and algorithmic modeling (e.g., neural networks and spectral methods) by addressing challenging inferential questions at the interface of them, such as variational inference and gradient estimation, sampling and optimization, score-based learning, and predictive uncertainty estimation. 
 <!-- I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks.  -->
 
 Before moving to Stanford I spent two wonderful years (1 year remotely) with the [Machine Learning and Statistics group](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
 I obtained my PhD in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
-During my graduate years I have spent a summer at [DeepMind](https://deepmind.com/), London as a research scientist intern and visited [Vector Institute](https://vectorinstitute.ai/).
+During my graduate years I have spent a summer at [DeepMind](https://deepmind.com/) as a research scientist intern and visited [Vector Institute](https://vectorinstitute.ai/).
 I have also spent a summer interning at [RIKEN-AIP](https://aip.riken.jp/), Tokyo. 
-I received my B.E. from the Department of Computer Science and Technology at Tsinghua University. 
+I received my B.E. in Computer Science at Tsinghua University. 
 <!-- My CV can be downloaded from this link: [[pdf]](https://thjashin.github.io/docs/Curriculum_Vitae.pdf). -->
 
 <a href="https://github.com/thjashin"><img style="vertical-align: middle; margin: 0 16px 0 12px" src="{{site.url}}/assets/images/github/GitHub-Mark-32px.png" >Github</a>
@@ -108,7 +108,7 @@ AABI Symposium, 2020.
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
 
-### Energy/Score-based Learning
+### Score-based Learning
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-200}
