@@ -9,7 +9,7 @@ permalink: /
 
 I am a postdoctoral researcher working with [Emily B. Fox](https://statistics.stanford.edu/people/emily-b-fox) at Stanford University. 
 I work on probabilistic modeling and inference for machine learning. 
-My research aims at bridging the gap between data modeling (e.g., graphical models and Bayesian nonparametrics) and algorithmic modeling (e.g., neural networks and spectral methods) by addressing challenging inferential questions at the interface of them, such as variational inference and gradient estimation, sampling and optimization, score-based learning, and predictive uncertainty estimation. 
+My research aims at bridging the gap between data modeling (e.g., generative models and Bayesian methods) and algorithmic modeling (e.g., neural networks and spectral methods) by addressing challenging inferential questions at the interface of them, such as variational inference and gradient estimation, sampling and optimization, score-based learning, and predictive uncertainty estimation. 
 <!-- I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks.  -->
 
 Before moving to Stanford I spent two wonderful years (1 year remotely) with the [Machine Learning and Statistics group](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
