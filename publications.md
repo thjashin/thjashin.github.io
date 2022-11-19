@@ -178,14 +178,14 @@ ICLR, 2018.
 
 Learning Absorption Rates in Glucose-Insulin Dynamics from Meal Covariates
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Ke Alexander Wang*, Matthew E. Levine*, **Jiaxin Shi**, Emily B. Fox.
+Ke Alexander Wang\*, Matthew E. Levine\*, **Jiaxin Shi**, Emily B. Fox.
 [[pdf]](https://openreview.net/pdf?id=cbn7xvCCq6e)
 {: .mb-1}
 [NeurIPS Workshop: Learning from Time Series for Health](https://timeseriesforhealth.github.io/), 2022. 
 
 Neural Networks as Inter-domain Inducing Points
 {: .fs-5 .mb-1 .text-grey-dk-300}
-Shengyang Sun*, **Jiaxin Shi**\*, Roger Grosse. 
+Shengyang Sun\*, **Jiaxin Shi**\*, Roger Grosse. 
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
