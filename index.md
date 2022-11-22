@@ -26,6 +26,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
+* Our work on gradient estimation for disrete distributions won the [NeurIPS 2022 Outstanding Paper Award](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)!
 * I am an area chair for [AISTATS 2023](http://aistats.org/aistats2023/).
 * I am a [top reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee) for [NeurIPS 2022](https://neurips.cc/).
 
@@ -55,8 +56,8 @@ NeurIPS, 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
-{: .mb-1}
-Spotlight Presentation. 
+{: .mb-1 .text-grey-dk-300}
+**NeurIPS 2022 Outstanding Paper Award**
 
 Double Control Variates for Gradient Estimation in Discrete Latent Variable Models
 {: .fs-5 .mb-1 .text-grey-dk-200}
@@ -76,7 +77,7 @@ ICLR, 2022.
 [[abs]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
-{: .mb-1}
+{: .mb-1 .text-grey-dk-300}
 Spotlight Presentation (top 5.1%). 
 
 ### Understanding Deep Learning, Representation Learning
