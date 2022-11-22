@@ -36,8 +36,8 @@ NeurIPS, 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
-{: .mb-1 .text-grey-dk-300}
-**NeurIPS 2022 Outstanding Paper Award**
+{: .mb-1}
+<span style="color:black"><b>NeurIPS 2022 Outstanding Paper Award</b></span>
 
 NeuralEF: Deconstructing Kernels by Deep Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
