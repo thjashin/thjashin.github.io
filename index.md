@@ -26,6 +26,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
+* I am an area chair for [NeurIPS 2023](https://neurips.cc/Conferences/2023).
 * Our work on gradient estimation for discrete distributions won the [NeurIPS 2022 Outstanding Paper Award](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)!
 * I am an area chair for [AISTATS 2023](http://aistats.org/aistats2023/).
 * I am a [top reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee) for [NeurIPS 2022](https://neurips.cc/).
