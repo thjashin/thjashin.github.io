@@ -45,6 +45,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 ### Sequence Modeling and MultiresConv Architecture
 
 Sequence Modeling with Multiresolution Convolutional Memory
+{: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Ke Alexander Wang, Emily B. Fox.
 {: .mb-1}
 ICML, 2023.
