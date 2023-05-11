@@ -28,6 +28,14 @@ Preprint, 2022.
 
 ## Refereed Conference Publications
 
+Sequence Modeling with Multiresolution Convolutional Memory
+**Jiaxin Shi**, Ke Alexander Wang, Emily B. Fox.
+{: .mb-1}
+ICML, 2023.
+[[pdf]](https://arxiv.org/pdf/2305.01638.pdf)
+[[abs]](https://arxiv.org/abs/2305.01638)
+[[code]](https://github.com/thjashin/multires-conv)
+
 Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.

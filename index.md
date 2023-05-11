@@ -8,8 +8,11 @@ permalink: /
 <img style="width:200px;float:right;margin:0 0px 12px 12px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
 I am a postdoctoral researcher working with [Emily B. Fox](https://statistics.stanford.edu/people/emily-b-fox) at Stanford University. 
+<!--
+I work on improving the algorithmic modeling and generative modeling capabilities of machine learning methods. 
+-->
 I work on probabilistic modeling and inference for machine learning. 
-My research aims at bridging the gap between data modeling (e.g., generative models and Bayesian methods) and algorithmic modeling (e.g., neural networks and spectral methods) by addressing challenging inferential questions at the interface of them, such as variational inference and gradient estimation, sampling and optimization, score-based learning, and predictive uncertainty estimation. 
+My research aims at bridging the gap between data modeling (e.g., generative models and Bayesian methods) and algorithmic modeling (e.g., neural networks and spectral methods) by addressing challenging inferential questions at the interface of them, such as variational inference and gradient estimation, sampling and optimization, score-based modeling, and predictive uncertainty estimation. 
 <!-- I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks.  -->
 
 Before moving to Stanford I spent two wonderful years (1 year remotely) with the [Machine Learning and Statistics group](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
@@ -26,6 +29,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
+* Check out our new SOTA convolutional sequence modeling [architecture](https://github.com/thjashin/multires-conv). 
 * I am an area chair for [NeurIPS 2023](https://neurips.cc/Conferences/2023).
 * Our work on gradient estimation for discrete distributions won the [NeurIPS 2022 Outstanding Paper Award](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)!
 * I am an area chair for [AISTATS 2023](http://aistats.org/aistats2023/).
@@ -38,6 +42,15 @@ I received my B.E. in Computer Science at Tsinghua University.
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
+### Sequence Modeling and MultiresConv Architecture
+
+Sequence Modeling with Multiresolution Convolutional Memory
+**Jiaxin Shi**, Ke Alexander Wang, Emily B. Fox.
+{: .mb-1}
+ICML, 2023.
+[[pdf]](https://arxiv.org/pdf/2305.01638.pdf)
+[[abs]](https://arxiv.org/abs/2305.01638)
+[[code]](https://github.com/thjashin/multires-conv)
 
 ### Probabilistic Inference and Gradient Estimation
 
@@ -81,7 +94,7 @@ ICLR, 2022.
 {: .mb-1 .text-grey-dk-300}
 Spotlight Presentation (top 5.1%). 
 
-### Understanding Deep Learning, Representation Learning
+### Representation Learning
 
 Neural Eigenfunctions Are Structured Representation Learners
 {: .fs-5 .mb-1 .text-grey-dk-200}
@@ -110,7 +123,7 @@ AABI Symposium, 2020.
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
 
-### Score-based Learning
+### Score-Based Modeling
 
 Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-200}
