@@ -32,7 +32,7 @@ Sequence Modeling with Multiresolution Convolutional Memory
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Ke Alexander Wang, Emily B. Fox.
 {: .mb-1}
-ICML, 2023.
+ICML 2023.
 [[pdf]](https://arxiv.org/pdf/2305.01638.pdf)
 [[abs]](https://arxiv.org/abs/2305.01638)
 [[code]](https://github.com/thjashin/multires-conv)
@@ -41,7 +41,7 @@ Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
 {: .mb-1}
-NeurIPS, 2022.
+NeurIPS 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
@@ -52,7 +52,7 @@ NeuralEF: Deconstructing Kernels by Deep Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Zhijie Deng, **Jiaxin Shi**, Jun Zhu. 
 {: .mb-1}
-ICML, 2022.
+ICML 2022.
 [[pdf]](https://arxiv.org/pdf/2205.00165.pdf)
 [[abs]](https://arxiv.org/abs/2205.00165)
 [[code]](https://github.com/thudzj/NeuralEigenFunction)
@@ -61,7 +61,7 @@ Double Control Variates for Gradient Estimation in Discrete Latent Variable Mode
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Michalis K. Titsias, **Jiaxin Shi**.
 {: .mb-1}
-AISTATS, 2022.
+AISTATS 2022.
 [[pdf]](https://arxiv.org/pdf/2111.05300.pdf)
 [[abs]](https://arxiv.org/abs/2111.05300)
 [[code]](https://github.com/thjashin/double-cv)
@@ -70,7 +70,7 @@ Sampling with Mirrored Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Chang Liu, Lester Mackey.
 {: .mb-1}
-ICLR, 2022.
+ICLR 2022.
 [[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
 [[abs]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
@@ -82,7 +82,7 @@ Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun, **Jiaxin Shi**, Andrew Gordon Wilson, Roger Grosse.
 {: .mb-1}
-ICML, 2021.
+ICML 2021.
 [[pdf]](https://arxiv.org/pdf/2106.05992)
 [[abs]](https://arxiv.org/abs/2106.05992)
 [[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
@@ -91,7 +91,7 @@ Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
 {: .mb-1}
-ICML, 2020.
+ICML 2020.
 [[pdf]](https://arxiv.org/pdf/2005.10099)
 [[abs]](https://arxiv.org/abs/2005.10099)
 [[code]](https://github.com/miskcoo/kscore)
@@ -101,19 +101,19 @@ Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Michalis K. Titsias, Andriy Mnih.
 {: .mb-1}
-AISTATS, 2020.
+AISTATS 2020.
 [[pdf]](https://arxiv.org/pdf/1910.10596)
 [[abs]](https://arxiv.org/abs/1910.10596)
 [[code]](https://github.com/thjashin/solvegp)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
 {: .mb-1}
-Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
+Best Student Paper Runner-Up at [AABI Symposium](http://approximateinference.org/), 2019.
 
 Sliced Score Matching: A Scalable Approach to Density and Score Estimation
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
 {: .mb-1}
-UAI, 2019.
+UAI 2019.
 [[pdf]](https://arxiv.org/pdf/1905.07088)
 [[abs]](https://arxiv.org/abs/1905.07088)
 [[code]](https://github.com/ermongroup/sliced_score_matching)
@@ -126,7 +126,7 @@ Scalable Training of Inference Networks for Gaussian-Process Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Mohammad Emtiyaz Khan, Jun Zhu.
 {: .mb-1}
-ICML, 2019. 
+ICML 2019. 
 [[pdf]](https://arxiv.org/pdf/1905.10969.pdf)
 [[abs]](https://arxiv.org/abs/1905.10969)
 [[code]](https://github.com/thjashin/gp-infer-net)
@@ -136,7 +136,7 @@ Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
 {: .mb-1}
-ICLR, 2019.
+ICLR 2019.
 [[pdf]](https://arxiv.org/pdf/1903.05779.pdf)
 [[abs]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
@@ -148,7 +148,7 @@ Semi-crowdsourced Clustering with Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Yucen Luo, Tian Tian, **Jiaxin Shi**, Jun Zhu, Bo Zhang. 
 {: .mb-1}
-NeurIPS, 2018.
+NeurIPS 2018.
 [[pdf]](https://arxiv.org/pdf/1810.11971.pdf)
 [[abs]](https://arxiv.org/abs/1810.11971)
 [[code]](https://github.com/xinmei9322/semicrowd)
@@ -159,7 +159,7 @@ A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**, Shengyang Sun, Jun Zhu.
 {: .mb-1}
-ICML, 2018. 
+ICML 2018. 
 [[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
 [[abs]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
@@ -169,7 +169,7 @@ Message Passing Stein Variational Gradient Descent
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Jingwei Zhuo, Chang Liu, **Jiaxin Shi**, Jun Zhu, Ning Chen, Bo Zhang.
 {: .mb-1}
-ICML, 2018. 
+ICML 2018. 
 [[pdf]](http://proceedings.mlr.press/v80/zhuo18a/zhuo18a.pdf)
 [[abs]](https://arxiv.org/abs/1711.04425)
 
@@ -177,7 +177,7 @@ Kernel Implicit Variational Inference
 {: .fs-5 .mb-1 .text-grey-dk-300}
 **Jiaxin Shi**\*, Shengyang Sun\*, Jun Zhu.
 {: .mb-1}
-ICLR, 2018.
+ICLR 2018.
 [[pdf]](https://arxiv.org/pdf/1705.10119.pdf)
 [[abs]](https://arxiv.org/abs/1705.10119)
 <!-- {: .mb-1} -->
@@ -240,14 +240,14 @@ Analyzing the Training Processes of Deep Generative Models
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Mengchen Liu, **Jiaxin Shi**, Kelei Cao, Jun Zhu, Shixia Liu.
 {: .mb-1}
-TVCG, 2018.
+IEEE Transactions on Visualization and Computer Graphics, 2018.
 [[pdf]](http://shixialiu.com/publications/dgmtracker/paper.pdf)
 
 Towards Better Analysis of Deep Convolutional Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Mengchen Liu, **Jiaxin Shi**, Zhen Li, Chongxuan Li, Jun Zhu, Shixia Liu.
 {: .mb-1}
-TVCG, 2017.
+IEEE Transactions on Visualization and Computer Graphics, 2017.
 [[pdf]](http://shixialiu.com/publications/cnnvis/paper.pdf)
 {: .mb-1}
 Most cited paper of TVCG in 2017.
@@ -256,5 +256,5 @@ Plenopatch: Patch-based Plenoptic Image Manipulation
 {: .fs-5 .mb-1 .text-grey-dk-300}
 Fanglue Zhang, Jue Wang, Eli Shechtman, Ziye Zhou, **Jiaxin Shi**, Shimin Hu.
 {: .mb-1}
-TVCG, 2017.
+IEEE Transactions on Visualization and Computer Graphics, 2017.
 [[paper]](https://ieeexplore.ieee.org/document/7414488)
