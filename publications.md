@@ -9,14 +9,6 @@ nav_order: 2
 
 ## Preprints
 
-A Finite-Particle Convergence Rate for Stein Variational Gradient Descent
-{: .fs-5 .mb-1 .text-grey-dk-200}
-**Jiaxin Shi**, Lester Mackey. 
-{: .mb-1}
-Preprint, 2022.
-[[pdf]](https://arxiv.org/pdf/2211.09721.pdf)
-[[abs]](https://arxiv.org/abs/2211.09721)
-
 Neural Eigenfunctions Are Structured Representation Learners
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Zhijie Deng\*, **Jiaxin Shi**\*, Hao Zhang, Peng Cui, Cewu Lu, Jun Zhu. 
@@ -27,6 +19,14 @@ Preprint, 2022.
 <!-- [[code]](https://github.com/thudzj/NeuralEigenFunction) -->
 
 ## Refereed Conference Publications
+
+A Finite-Particle Convergence Rate for Stein Variational Gradient Descent
+{: .fs-5 .mb-1 .text-grey-dk-200}
+**Jiaxin Shi**, Lester Mackey. 
+{: .mb-1}
+NeurIPS 2023.
+[[pdf]](https://arxiv.org/pdf/2211.09721.pdf)
+[[abs]](https://arxiv.org/abs/2211.09721)
 
 Sequence Modeling with Multiresolution Convolutional Memory
 {: .fs-5 .mb-1 .text-grey-dk-200}

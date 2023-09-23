@@ -7,14 +7,22 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 12px 12px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a postdoctoral researcher working with [Emily B. Fox](https://statistics.stanford.edu/people/emily-b-fox) at Stanford University. 
+I am a research scientist at Google DeepMind working on machine learning. My research focuses on bridging the gap between
+
+* generative modeling---utilizes probabilistic methods to capture the structure and uncertainty inherent in data, and
+* algorithmic modeling---building models that encode dependencies and extract meaningful representations
+
+To accomplish this, I actively address challenging inferential questions at the intersection of these two areas. Some of the topics I investigate include variational inference, sampling, gradient estimation, and score-based modeling. 
 <!--
 I work on improving the algorithmic modeling and generative modeling capabilities of machine learning methods. 
 -->
+<!--
 I work on probabilistic modeling and inference for machine learning. 
 My research aims at bridging the gap between data modeling (e.g., generative models and Bayesian methods) and algorithmic modeling (e.g., neural networks and spectral methods) by addressing challenging inferential questions at the interface of them, such as variational inference and gradient estimation, sampling and optimization, score-based modeling, and predictive uncertainty estimation. 
+-->
 <!-- I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks.  -->
-
+<!--
+I was a postdoctoral researcher working with [Emily B. Fox](https://statistics.stanford.edu/people/emily-b-fox) at Stanford University.
 Before moving to Stanford I spent two wonderful years (1 year remotely) with the [Machine Learning and Statistics group](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
 I obtained my PhD in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
 During my graduate years I have spent a summer at [DeepMind](https://deepmind.com/) as a research scientist intern and visited [Vector Institute](https://vectorinstitute.ai/).
@@ -59,7 +67,7 @@ A Finite-Particle Convergence Rate for Stein Variational Gradient Descent
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Lester Mackey. 
 {: .mb-1}
-Preprint, 2022.
+NeurIPS 2023.
 [[pdf]](https://arxiv.org/pdf/2211.09721.pdf)
 [[abs]](https://arxiv.org/abs/2211.09721)
 
@@ -67,7 +75,7 @@ Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
 {: .mb-1}
-NeurIPS, 2022.
+NeurIPS 2022.
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
@@ -78,7 +86,7 @@ Double Control Variates for Gradient Estimation in Discrete Latent Variable Mode
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Michalis K. Titsias, **Jiaxin Shi**.
 {: .mb-1}
-AISTATS, 2022.
+AISTATS 2022.
 [[pdf]](https://arxiv.org/pdf/2111.05300.pdf)
 [[abs]](https://arxiv.org/abs/2111.05300)
 [[code]](https://github.com/thjashin/double-cv)
@@ -87,7 +95,7 @@ Sampling with Mirrored Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Chang Liu, Lester Mackey.
 {: .mb-1}
-ICLR, 2022.
+ICLR 2022.
 [[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
 [[abs]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
@@ -95,7 +103,51 @@ ICLR, 2022.
 {: .mb-1 .text-grey-dk-300}
 Spotlight Presentation (top 5.1%). 
 
+### Score-Based Modeling
+
+A Spectral Approach to Gradient Estimation for Implicit Distributions
+{: .fs-5 .mb-1 .text-grey-dk-200}
+**Jiaxin Shi**, Shengyang Sun, Jun Zhu.
+{: .mb-1}
+ICML 2018. 
+[[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
+[[abs]](https://arxiv.org/abs/1806.02925)
+[[code]](https://github.com/thjashin/spectral-stein-grad)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
+
+Nonparametric Score Estimators
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
+{: .mb-1}
+ICML 2020.
+[[pdf]](https://arxiv.org/pdf/2005.10099)
+[[abs]](https://arxiv.org/abs/2005.10099)
+[[code]](https://github.com/miskcoo/kscore)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~yuhao/slides/nonparametric%20score%20estimators,%20icml2020.pdf)
+
+Sliced Score Matching: A Scalable Approach to Density and Score Estimation
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
+{: .mb-1}
+UAI 2019.
+[[pdf]](https://arxiv.org/pdf/1905.07088)
+[[abs]](https://arxiv.org/abs/1905.07088)
+[[code]](https://github.com/ermongroup/sliced_score_matching)
+[[video]](https://www.youtube.com/watch?v=lapaQrdYIWg)
+[[blog]](https://ermongroup.github.io/blog/ssm/)
+{: .mb-1}
+Oral Presentation (top 8.7%). 
+
 ### Representation Learning
+
+NeuralEF: Deconstructing Kernels by Deep Neural Networks
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Zhijie Deng, **Jiaxin Shi**, Jun Zhu. 
+{: .mb-1}
+ICML 2022.
+[[pdf]](https://arxiv.org/pdf/2205.00165.pdf)
+[[abs]](https://arxiv.org/abs/2205.00165)
+[[code]](https://github.com/thudzj/NeuralEigenFunction)
 
 Neural Eigenfunctions Are Structured Representation Learners
 {: .fs-5 .mb-1 .text-grey-dk-200}
@@ -106,15 +158,6 @@ Preprint, 2022.
 [[abs]](https://arxiv.org/abs/2210.12637)
 <!-- [[code]](https://github.com/thudzj/NeuralEigenFunction) -->
 
-NeuralEF: Deconstructing Kernels by Deep Neural Networks
-{: .fs-5 .mb-1 .text-grey-dk-200}
-Zhijie Deng, **Jiaxin Shi**, Jun Zhu. 
-{: .mb-1}
-ICML, 2022.
-[[pdf]](https://arxiv.org/pdf/2205.00165.pdf)
-[[abs]](https://arxiv.org/abs/2205.00165)
-[[code]](https://github.com/thudzj/NeuralEigenFunction)
-
 Neural Networks as Inter-domain Inducing Points
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Shengyang Sun\*, **Jiaxin Shi**\*, Roger Grosse. 
@@ -123,41 +166,6 @@ AABI Symposium, 2020.
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
-
-### Score-Based Modeling
-
-Nonparametric Score Estimators
-{: .fs-5 .mb-1 .text-grey-dk-200}
-Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
-{: .mb-1}
-ICML, 2020.
-[[pdf]](https://arxiv.org/pdf/2005.10099)
-[[abs]](https://arxiv.org/abs/2005.10099)
-[[code]](https://github.com/miskcoo/kscore)
-[[slides]](http://ml.cs.tsinghua.edu.cn/~yuhao/slides/nonparametric%20score%20estimators,%20icml2020.pdf)
-
-Sliced Score Matching: A Scalable Approach to Density and Score Estimation
-{: .fs-5 .mb-1 .text-grey-dk-200}
-Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
-{: .mb-1}
-UAI, 2019.
-[[pdf]](https://arxiv.org/pdf/1905.07088)
-[[abs]](https://arxiv.org/abs/1905.07088)
-[[code]](https://github.com/ermongroup/sliced_score_matching)
-[[video]](https://www.youtube.com/watch?v=lapaQrdYIWg)
-[[blog]](https://ermongroup.github.io/blog/ssm/)
-{: .mb-1}
-Oral Presentation (top 8.7%). 
-
-A Spectral Approach to Gradient Estimation for Implicit Distributions
-{: .fs-5 .mb-1 .text-grey-dk-200}
-**Jiaxin Shi**, Shengyang Sun, Jun Zhu.
-{: .mb-1}
-ICML, 2018. 
-[[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
-[[abs]](https://arxiv.org/abs/1806.02925)
-[[code]](https://github.com/thjashin/spectral-stein-grad)
-[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
 
 ### Predictive Uncertainty Estimation
 
@@ -180,13 +188,13 @@ AISTATS, 2020.
 [[code]](https://github.com/thjashin/solvegp)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
 {: .mb-1}
-Best Student Paper Runner-Up at [AABI](http://approximateinference.org/), 2019.
+Best Student Paper Runner-Up at [AABI Symposium](http://approximateinference.org/), 2019.
 
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
 {: .mb-1}
-ICLR, 2019.
+ICLR 2019.
 [[pdf]](https://arxiv.org/pdf/1903.05779.pdf)
 [[abs]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
