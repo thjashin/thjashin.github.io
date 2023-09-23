@@ -7,12 +7,12 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 12px 12px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a research scientist at Google DeepMind working on machine learning. My research focuses on bridging the gap between
+I am a research scientist at Google DeepMind. I work on machine learning, particularly
 
-* generative modeling---utilizes probabilistic methods to capture the structure and uncertainty inherent in data, and
-* algorithmic modeling---building models that encode dependencies and extract meaningful representations
+* generative modeling---using probabilistic methods to capture the structure and uncertainty inherent in data
+* algorithmic modeling---building models that efficiently encode dependencies and extract meaningful representations
 
-To accomplish this, I actively address challenging inferential questions at the intersection of these two areas. Some of the topics I investigate include variational inference, sampling, gradient estimation, and score-based modeling. 
+I'm also interested in addressing challenging inferential questions at the intersection of these two areas. Some of the topics I investigate include variational inference, sampling, gradient estimation, and score-based modeling. 
 <!--
 I work on improving the algorithmic modeling and generative modeling capabilities of machine learning methods. 
 -->
@@ -169,15 +169,6 @@ AABI Symposium, 2020.
 
 ### Predictive Uncertainty Estimation
 
-Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
-{: .fs-5 .mb-1 .text-grey-dk-200}
-Shengyang Sun, **Jiaxin Shi**, Andrew Gordon Wilson, Roger Grosse.
-{: .mb-1}
-ICML, 2021.
-[[pdf]](https://arxiv.org/pdf/2106.05992)
-[[abs]](https://arxiv.org/abs/2106.05992)
-[[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
-
 Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Michalis K. Titsias, Andriy Mnih.
@@ -189,6 +180,15 @@ AISTATS, 2020.
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/solvegp-aistats.pdf)
 {: .mb-1}
 Best Student Paper Runner-Up at [AABI Symposium](http://approximateinference.org/), 2019.
+
+Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Shengyang Sun, **Jiaxin Shi**, Andrew Gordon Wilson, Roger Grosse.
+{: .mb-1}
+ICML, 2021.
+[[pdf]](https://arxiv.org/pdf/2106.05992)
+[[abs]](https://arxiv.org/abs/2106.05992)
+[[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
 
 Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-200}
