@@ -7,12 +7,12 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 12px 12px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a research scientist at Google DeepMind. I work on machine learning, particularly
+I am a research scientist at Google DeepMind. I work on machine learning, with an emphasis on:
 
-* generative modeling---using probabilistic methods to capture the structure and uncertainty inherent in data
-* algorithmic modeling---building models that efficiently encode dependencies and extract meaningful representations
+* Generative modeling: using probabilistic methods to capture the structure and uncertainty inherent in data
+* Algorithmic modeling: building models that efficiently encode dependencies and extract meaningful representations
 
-I'm also interested in addressing challenging inferential questions at the intersection of these two areas. Some of the topics I investigate include variational inference, sampling, gradient estimation, and score-based modeling. 
+I'm particularly interested in addressing challenging inferential questions at the intersection of these two areas. Some of the topics I investigate include variational inference, sampling, gradient estimation, and score-based modeling. 
 <!--
 I work on improving the algorithmic modeling and generative modeling capabilities of machine learning methods. 
 -->
