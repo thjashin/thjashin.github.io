@@ -10,7 +10,7 @@ permalink: /
 I am a research scientist at Google DeepMind. I work on machine learning, with an emphasis on:
 
 * Generative modeling: using probabilistic methods to capture the structure and uncertainty inherent in data
-* Algorithmic modeling: building models that efficiently encode dependencies and extract meaningful representations
+* Algorithmic modeling: building models that efficiently encode dependencies, has long-term mmeory, and extract meaningful representations
 
 I'm particularly interested in addressing challenging inferential questions at the intersection of these two areas. Some of the topics I investigate include variational inference, sampling, gradient estimation, and score-based modeling. 
 <!--
