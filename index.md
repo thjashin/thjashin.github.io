@@ -38,6 +38,8 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
+* Upcoming talk at [FIMI 2024 Workshop](https://ismseminar.github.io/fimi2024/) on designing sequence models with wavelets and [MultiresConv](https://arxiv.org/abs/2305.01638)
+* Upcoming talk at [OT Berlin 2024 (Workshop on Optimal Transport)](https://sites.google.com/corp/view/ot-berlin-2024) about advances in Stein's method for machine learning
 * Check out our new SOTA convolutional sequence modeling [architecture](https://github.com/thjashin/multires-conv). 
 * I am an area chair for [NeurIPS 2023](https://neurips.cc/Conferences/2023).
 * Our work on gradient estimation for discrete distributions won the [NeurIPS 2022 Outstanding Paper Award](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)!
