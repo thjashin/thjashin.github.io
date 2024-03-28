@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Writings
+title: Talks & Writings
 nav_order: 2
 ---
 
