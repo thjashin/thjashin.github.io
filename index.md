@@ -38,6 +38,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
+* I am an area chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024).
 * Talk at [FIMI 2024 Workshop](https://ismseminar.github.io/fimi2024/) on designing sequence models with wavelets and [MultiresConv](https://arxiv.org/abs/2305.01638)  [[slides]](https://thjashin.github.io/talks/multires-conv-fimi.pdf)
 * Talk at [OT Berlin 2024 (Workshop on Optimal Transport)](https://sites.google.com/corp/view/ot-berlin-2024) about our recent developments of Stein's method for machine learning [[slides]](https://thjashin.github.io/talks/ot-berlin-stein-jiaxins.pdf)
 * Check out our new SOTA convolutional sequence modeling [architecture](https://github.com/thjashin/multires-conv). 
