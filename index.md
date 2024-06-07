@@ -54,6 +54,49 @@ I received my B.E. in Computer Science at Tsinghua University.
 {: .label .label-red :}
 <!-- {: .fs-9 } -->
 
+### Diffusion and Score-Based Modeling
+
+Simplified and Generalized Masked Diffusion for Discrete Data
+{: .fs-5 .mb-1 .text-grey-dk-200}
+**Jiaxin Shi**\*, Kehang Han\*, Zhe Wang, Arnaud Doucet, Michalis K. Titsias.
+{: .mb-1}
+Preprint, 2024.
+[[pdf]](https://arxiv.org/pdf/2406.04329.pdf)
+[[abs]](https://arxiv.org/abs/2406.04329)
+
+Nonparametric Score Estimators
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
+{: .mb-1}
+ICML 2020.
+[[pdf]](https://arxiv.org/pdf/2005.10099)
+[[abs]](https://arxiv.org/abs/2005.10099)
+[[code]](https://github.com/miskcoo/kscore)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~yuhao/slides/nonparametric%20score%20estimators,%20icml2020.pdf)
+
+Sliced Score Matching: A Scalable Approach to Density and Score Estimation
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
+{: .mb-1}
+UAI 2019.
+[[pdf]](https://arxiv.org/pdf/1905.07088)
+[[abs]](https://arxiv.org/abs/1905.07088)
+[[code]](https://github.com/ermongroup/sliced_score_matching)
+[[video]](https://www.youtube.com/watch?v=lapaQrdYIWg)
+[[blog]](https://ermongroup.github.io/blog/ssm/)
+{: .mb-1}
+Oral Presentation (top 8.7%). 
+
+A Spectral Approach to Gradient Estimation for Implicit Distributions
+{: .fs-5 .mb-1 .text-grey-dk-200}
+**Jiaxin Shi**, Shengyang Sun, Jun Zhu.
+{: .mb-1}
+ICML 2018. 
+[[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
+[[abs]](https://arxiv.org/abs/1806.02925)
+[[code]](https://github.com/thjashin/spectral-stein-grad)
+[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
+
 ### Sequence Modeling and MultiresConv Architecture
 
 Sequence Modeling with Multiresolution Convolutional Memory
@@ -107,41 +150,6 @@ ICLR 2022.
 [[slides]](https://thjashin.github.io/talks/mirror-stein-samplers.pdf)
 {: .mb-1 .text-grey-dk-300}
 Spotlight Presentation (top 5.1%). 
-
-### Score-Based Modeling
-
-A Spectral Approach to Gradient Estimation for Implicit Distributions
-{: .fs-5 .mb-1 .text-grey-dk-200}
-**Jiaxin Shi**, Shengyang Sun, Jun Zhu.
-{: .mb-1}
-ICML 2018. 
-[[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
-[[abs]](https://arxiv.org/abs/1806.02925)
-[[code]](https://github.com/thjashin/spectral-stein-grad)
-[[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
-
-Nonparametric Score Estimators
-{: .fs-5 .mb-1 .text-grey-dk-200}
-Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
-{: .mb-1}
-ICML 2020.
-[[pdf]](https://arxiv.org/pdf/2005.10099)
-[[abs]](https://arxiv.org/abs/2005.10099)
-[[code]](https://github.com/miskcoo/kscore)
-[[slides]](http://ml.cs.tsinghua.edu.cn/~yuhao/slides/nonparametric%20score%20estimators,%20icml2020.pdf)
-
-Sliced Score Matching: A Scalable Approach to Density and Score Estimation
-{: .fs-5 .mb-1 .text-grey-dk-200}
-Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
-{: .mb-1}
-UAI 2019.
-[[pdf]](https://arxiv.org/pdf/1905.07088)
-[[abs]](https://arxiv.org/abs/1905.07088)
-[[code]](https://github.com/ermongroup/sliced_score_matching)
-[[video]](https://www.youtube.com/watch?v=lapaQrdYIWg)
-[[blog]](https://ermongroup.github.io/blog/ssm/)
-{: .mb-1}
-Oral Presentation (top 8.7%). 
 
 ### Representation Learning
 
