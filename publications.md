@@ -9,6 +9,14 @@ nav_order: 2
 
 ## Preprints
 
+Simplified and Generalized Masked Diffusion for Discrete Data
+{: .fs-5 .mb-1 .text-grey-dk-200}
+**Jiaxin Shi**\*, Kehang Han\*, Zhe Wang, Arnaud Doucet, Michalis K. Titsias.
+{: .mb-1}
+Preprint, 2024.
+[[pdf]](https://arxiv.org/pdf/2406.04329.pdf)
+[[abs]](https://arxiv.org/abs/2406.04329)
+
 Neural Eigenfunctions Are Structured Representation Learners
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Zhijie Deng\*, **Jiaxin Shi**\*, Hao Zhang, Peng Cui, Cewu Lu, Jun Zhu. 
