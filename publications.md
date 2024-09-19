@@ -16,6 +16,7 @@ Simplified and Generalized Masked Diffusion for Discrete Data
 Preprint, 2024.
 [[pdf]](https://arxiv.org/pdf/2406.04329.pdf)
 [[abs]](https://arxiv.org/abs/2406.04329)
+[[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
 
 Neural Eigenfunctions Are Structured Representation Learners
 {: .fs-5 .mb-1 .text-grey-dk-200}
