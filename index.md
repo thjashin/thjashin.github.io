@@ -61,7 +61,7 @@ Simplified and Generalized Masked Diffusion for Discrete Data
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**\*, Kehang Han\*, Zhe Wang, Arnaud Doucet, Michalis K. Titsias.
 {: .mb-1}
-Preprint, 2024.
+NeurIPS 2024.
 [[pdf]](https://arxiv.org/pdf/2406.04329.pdf)
 [[abs]](https://arxiv.org/abs/2406.04329)
 [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
