@@ -9,6 +9,14 @@ nav_order: 2
 
 ## Preprints
 
+Informed Correctors for Discrete Diffusion Models.
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Yixiu Zhao, **Jiaxin Shi**, Lester Mackey, and Scott Linderman
+{: .mb-1}
+Preprint, 2024.
+[[pdf]](https://arxiv.org/pdf/2407.21243.pdf)
+[[abs]](https://arxiv.org/abs/2407.21243)
+
 Neural Eigenfunctions Are Structured Representation Learners
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Zhijie Deng\*, **Jiaxin Shi**\*, Hao Zhang, Peng Cui, Cewu Lu, Jun Zhu. 
@@ -27,6 +35,7 @@ Simplified and Generalized Masked Diffusion for Discrete Data
 NeurIPS 2024.
 [[pdf]](https://arxiv.org/pdf/2406.04329.pdf)
 [[abs]](https://arxiv.org/abs/2406.04329)
+[[code]](https://github.com/google-deepmind/md4)
 [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
 
 A Finite-Particle Convergence Rate for Stein Variational Gradient Descent
