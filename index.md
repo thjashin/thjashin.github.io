@@ -65,6 +65,7 @@ Simplified and Generalized Masked Diffusion for Discrete Data
 NeurIPS 2024.
 [[pdf]](https://arxiv.org/pdf/2406.04329.pdf)
 [[abs]](https://arxiv.org/abs/2406.04329)
+[[code]](https://github.com/google-deepmind/md4)
 [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
 
 Nonparametric Score Estimators
