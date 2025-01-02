@@ -38,6 +38,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
+* We have opensourced our [masked diffusion model code](https://arxiv.org/abs/2406.04329) (with data & model parallel support). Try our examples on OpenWebText/Fineweb-Edu/ImageNet!
 * Talk at [GenU 2024](https://genu.ai/2024/) about discrete generative modeling with [Masked Diffusion Models](https://arxiv.org/abs/2406.04329). [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
 * I am an area chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024).
 * Talk at [FIMI 2024](https://ismseminar.github.io/fimi2024/) on designing sequence models with wavelets and [MultiresConv](https://arxiv.org/abs/2305.01638)  [[slides]](https://thjashin.github.io/talks/multires-conv-fimi.pdf)
