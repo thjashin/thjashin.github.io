@@ -9,9 +9,17 @@ nav_order: 2
 
 ## Preprints
 
+Test-time Regression: A Unifying Framework for Designing Sequence Models with Associative Memory
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Ke Alexander Wang, **Jiaxin Shi**, Emily B. Fox.
+{: .mb-1}
+Preprint, 2025.
+[[pdf]](https://arxiv.org/pdf/2501.12352.pdf)
+[[abs]](https://arxiv.org/abs/2501.12352)
+
 Informed Correctors for Discrete Diffusion Models.
 {: .fs-5 .mb-1 .text-grey-dk-200}
-Yixiu Zhao, **Jiaxin Shi**, Lester Mackey, and Scott Linderman
+Yixiu Zhao, **Jiaxin Shi**, Lester Mackey, Scott Linderman
 {: .mb-1}
 Preprint, 2024.
 [[pdf]](https://arxiv.org/pdf/2407.21243.pdf)
