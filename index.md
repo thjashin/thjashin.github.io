@@ -45,7 +45,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 * Talk at [GenU 2024](https://genu.ai/2024/): Discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
 * I am an area chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024).
 * Talk at [FIMI 2024](https://ismseminar.github.io/fimi2024/) on designing sequence models with wavelets and [MultiresConv](https://arxiv.org/abs/2305.01638)  [[slides]](https://thjashin.github.io/talks/multires-conv-fimi.pdf)
-* Talk at [Optimal Transport Berlin 2024](https://sites.google.com/corp/view/ot-berlin-2024) about our recent developments of Stein's method for machine learning [[slides]](https://thjashin.github.io/talks/ot-berlin-stein-jiaxins.pdf)
+* Talk at [Optimal Transport Berlin 2024](https://sites.google.com/corp/view/ot-berlin-2024) on Stein's method for machine learning [[slides]](https://thjashin.github.io/talks/ot-berlin-stein-jiaxins.pdf)
 * Check out our new SOTA convolutional sequence modeling [architecture](https://github.com/thjashin/multires-conv). 
 * I am an area chair for [NeurIPS 2023](https://neurips.cc/Conferences/2023).
 * Our work on gradient estimation for discrete distributions won the [NeurIPS 2022 Outstanding Paper Award](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)!
