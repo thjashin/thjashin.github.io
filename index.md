@@ -38,8 +38,11 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
-* We have opensourced our [code of Masked Diffusion Models](https://github.com/google-deepmind/md4) (with data & model parallel support). Try our [Text](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/openwebtext.py) and [ImageNet](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/imagenet64.py) examples!
-* Talk at [GenU 2024](https://genu.ai/2024/) about discrete generative modeling with [Masked Diffusion Models](https://arxiv.org/abs/2406.04329). [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
+* Talk at [TTIC]([https://www.ttic.edu/) on discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/md4_ttic.pdf)
+* We have opensourced our [code of masked diffusion models](https://github.com/google-deepmind/md4) (with data & model parallel support). Try our [Text](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/openwebtext.py) and [ImageNet](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/imagenet64.py) examples!
+* I am area chair for [AISTATS 2025](https://neurips.cc/Conferences/2025) and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
+* Talk at Imperial College London on [masked diffusions models](https://arxiv.org/abs/2406.04329).
+* Talk at [GenU 2024](https://genu.ai/2024/): Discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
 * I am an area chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024).
 * Talk at [FIMI 2024](https://ismseminar.github.io/fimi2024/) on designing sequence models with wavelets and [MultiresConv](https://arxiv.org/abs/2305.01638)  [[slides]](https://thjashin.github.io/talks/multires-conv-fimi.pdf)
 * Talk at [Optimal Transport Berlin 2024](https://sites.google.com/corp/view/ot-berlin-2024) about our recent developments of Stein's method for machine learning [[slides]](https://thjashin.github.io/talks/ot-berlin-stein-jiaxins.pdf)
