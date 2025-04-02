@@ -38,6 +38,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
+* I'm co-organizing the [ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling](https://sites.google.com/view/worldmodel-iclr2025/).
 * Talk at [TTIC]([https://www.ttic.edu/) on discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/md4_ttic.pdf)
 * We have opensourced our [code of masked diffusion models](https://github.com/google-deepmind/md4) (with data & model parallel support). Try our [Text](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/openwebtext.py) and [ImageNet](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/imagenet64.py) examples!
 * I am area chair for [AISTATS 2025](https://neurips.cc/Conferences/2025) and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
