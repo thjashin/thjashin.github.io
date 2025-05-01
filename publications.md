@@ -9,14 +9,6 @@ nav_order: 2
 
 ## Preprints
 
-Learning-Order Autoregressive Models with Application to Molecular Graph Generation
-{: .fs-5 .mb-1 .text-grey-dk-200}
-Zhe Wang, **Jiaxin Shi**, Nicolas Heess, Arthur Gretton, Michalis K. Titsias
-{: .mb-1}
-Preprint, 2025
-[[pdf]](https://arxiv.org/pdf/2503.05979.pdf)
-[[abs]](https://arxiv.org/abs/2503.05979)
-
 Test-time Regression: A Unifying Framework for Designing Sequence Models with Associative Memory
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Ke Alexander Wang, **Jiaxin Shi**, Emily B. Fox
@@ -27,7 +19,7 @@ Preprint, 2025
 
 Informed Correctors for Discrete Diffusion Models
 {: .fs-5 .mb-1 .text-grey-dk-200}
-Yixiu Zhao, **Jiaxin Shi**, Lester Mackey, Scott Linderman
+Yixiu Zhao, **Jiaxin Shi**, Feng Chen, Shaul Druckmann, Lester Mackey, Scott Linderman
 {: .mb-1}
 Preprint, 2024
 [[pdf]](https://arxiv.org/pdf/2407.21243.pdf)
@@ -43,6 +35,14 @@ Preprint, 2022
 <!-- [[code]](https://github.com/thudzj/NeuralEigenFunction) -->
 
 ## Refereed Conference Publications
+
+Learning-Order Autoregressive Models with Application to Molecular Graph Generation
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Zhe Wang, **Jiaxin Shi**, Nicolas Heess, Arthur Gretton, Michalis K. Titsias
+{: .mb-1}
+ICML 2025
+[[pdf]](https://arxiv.org/pdf/2503.05979.pdf)
+[[abs]](https://arxiv.org/abs/2503.05979)
 
 Simplified and Generalized Masked Diffusion for Discrete Data
 {: .fs-5 .mb-1 .text-grey-dk-200}
