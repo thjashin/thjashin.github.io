@@ -105,7 +105,15 @@ ICML 2018.
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
 
-### Sequence Modeling and MultiresConv Architecture
+### Sequence Modeling
+
+Learning-Order Autoregressive Models with Application to Molecular Graph Generation
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Zhe Wang, **Jiaxin Shi**, Nicolas Heess, Arthur Gretton, Michalis K. Titsias
+{: .mb-1}
+ICML 2025
+[[pdf]](https://arxiv.org/pdf/2503.05979.pdf)
+[[abs]](https://arxiv.org/abs/2503.05979)
 
 Sequence Modeling with Multiresolution Convolutional Memory
 {: .fs-5 .mb-1 .text-grey-dk-200}
