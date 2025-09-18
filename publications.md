@@ -13,28 +13,35 @@ Test-time Regression: A Unifying Framework for Designing Sequence Models with As
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Ke Alexander Wang, **Jiaxin Shi**, Emily B. Fox
 {: .mb-1}
-Preprint, 2025
+Preprint 2025
 [[pdf]](https://arxiv.org/pdf/2501.12352.pdf)
 [[abs]](https://arxiv.org/abs/2501.12352)
-
-Informed Correctors for Discrete Diffusion Models
-{: .fs-5 .mb-1 .text-grey-dk-200}
-Yixiu Zhao, **Jiaxin Shi**, Feng Chen, Shaul Druckmann, Lester Mackey, Scott Linderman
-{: .mb-1}
-Preprint, 2024
-[[pdf]](https://arxiv.org/pdf/2407.21243.pdf)
-[[abs]](https://arxiv.org/abs/2407.21243)
 
 Neural Eigenfunctions Are Structured Representation Learners
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Zhijie Deng\*, **Jiaxin Shi**\*, Hao Zhang, Peng Cui, Cewu Lu, Jun Zhu. 
 {: .mb-1}
-Preprint, 2022
+Preprint 2022
 [[pdf]](https://arxiv.org/pdf/2210.12637.pdf)
 [[abs]](https://arxiv.org/abs/2210.12637)
 <!-- [[code]](https://github.com/thudzj/NeuralEigenFunction) -->
 
 ## Refereed Conference Publications
+
+Informed Correctors for Discrete Diffusion Models
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Yixiu Zhao, **Jiaxin Shi**, Feng Chen, Shaul Druckmann, Lester Mackey, Scott Linderman
+{: .mb-1}
+NeurIPS 2025
+[[pdf]](https://arxiv.org/pdf/2407.21243.pdf)
+[[abs]](https://arxiv.org/abs/2407.21243)
+[[code]](https://github.com/lindermanlab/informed-correctors)
+
+Generating Creative Chess Puzzles
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Xidong Feng, Vivek Veeriah, Marcus Chiam, Michael D Dennis, Federico Barbero, Johan Obando-Ceron, **Jiaxin Shi**, Satinder Singh, Shaobo Hou, Nenad Tomasev, Tom Zahavy
+{: .mb-1}
+To appear at NeurIPS 2025
 
 Learning-Order Autoregressive Models with Application to Molecular Graph Generation
 {: .fs-5 .mb-1 .text-grey-dk-200}
