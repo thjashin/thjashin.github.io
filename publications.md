@@ -25,16 +25,15 @@ Preprint 2025
 [[pdf]](https://arxiv.org/pdf/2501.12352.pdf)
 [[abs]](https://arxiv.org/abs/2501.12352)
 
+## Refereed Conference Publications
+
 Neural Eigenfunctions Are Structured Representation Learners
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Zhijie Deng\*, **Jiaxin Shi**\*, Hao Zhang, Peng Cui, Cewu Lu, Jun Zhu. 
 {: .mb-1}
-Preprint 2022
+IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2025
 [[pdf]](https://arxiv.org/pdf/2210.12637.pdf)
 [[abs]](https://arxiv.org/abs/2210.12637)
-<!-- [[code]](https://github.com/thudzj/NeuralEigenFunction) -->
-
-## Refereed Conference Publications
 
 Informed Correctors for Discrete Diffusion Models
 {: .fs-5 .mb-1 .text-grey-dk-200}
