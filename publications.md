@@ -48,7 +48,11 @@ Generating Creative Chess Puzzles
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Xidong Feng, Vivek Veeriah, Marcus Chiam, Michael D Dennis, Federico Barbero, Johan Obando-Ceron, **Jiaxin Shi**, Satinder Singh, Shaobo Hou, Nenad Tomasev, Tom Zahavy
 {: .mb-1}
-To appear at NeurIPS 2025
+NeurIPS 2025
+[[pdf]](https://arxiv.org/pdf/2510.23881.pdf)
+[[abs]](https://arxiv.org/abs/2510.23881)
+[[booklet & review]](https://arxiv.org/abs/2510.23772)
+[[media]](https://www.chess.com/news/view/ai-learns-to-create-original-chess-puzzles-earns-praise-from-grandmasters)
 
 Learning-Order Autoregressive Models with Application to Molecular Graph Generation
 {: .fs-5 .mb-1 .text-grey-dk-200}
