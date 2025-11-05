@@ -9,6 +9,15 @@ nav_order: 2
 
 ## Preprints
 
+CANDI: Hybrid Discrete-Continuous Diffusion Models
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Patrick Pynadath, **Jiaxin Shi**, Ruqi Zhang
+{: .mb-1}
+Preprint 2025
+[[pdf]](https://arxiv.org/pdf/2510.22510.pdf)
+[[abs]](https://arxiv.org/abs/2510.22510)
+[[code]](https://github.com/patrickpynadath1/candi-diffusion)
+
 Self-Speculative Masked Diffusions
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Andrew Campbell, Valentin De Bortoli, **Jiaxin Shi**, Arnaud Doucet
