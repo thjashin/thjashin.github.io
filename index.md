@@ -38,10 +38,11 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
+* I am an area chair for [ICML 2026](https://neurips.cc/Conferences/2026) and [AISTATS 2026](https://aistats.org/aistats2026/index.html)
 * I'm co-organizing the [ICLR 2025 Workshop on World Models](https://sites.google.com/view/worldmodel-iclr2025/).
 * Talk at [TTIC]([https://www.ttic.edu/) on discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/md4_ttic.pdf)
 * We have opensourced our [code of masked diffusion models](https://github.com/google-deepmind/md4) (with data & model parallel support). Try our [Text](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/openwebtext.py) and [ImageNet](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/imagenet64.py) examples!
-* I am area chair for [AISTATS 2025](https://neurips.cc/Conferences/2025) and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
+* I am an area chair for [AISTATS 2025](https://neurips.cc/Conferences/2025) and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
 * Talk at Imperial College London on [masked diffusions models](https://arxiv.org/abs/2406.04329).
 * Talk at [GenU 2024](https://genu.ai/2024/): Discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
 * I am an area chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024).
@@ -61,6 +62,14 @@ I received my B.E. in Computer Science at Tsinghua University.
 <!-- {: .fs-9 } -->
 
 ### Diffusion and Score-Based Modeling
+
+Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Bounds
+{: .fs-5 .mb-1 .text-grey-dk-200}
+**Jiaxin Shi**, Michalis K. Titsias
+{: .mb-1}
+Preprint 2025.
+[[pdf]](https://arxiv.org/pdf/2511.19664.pdf)
+[[abs]](https://arxiv.org/abs/2511.19664)
 
 Simplified and Generalized Masked Diffusion for Discrete Data
 {: .fs-5 .mb-1 .text-grey-dk-200}
