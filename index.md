@@ -70,7 +70,7 @@ Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Boun
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Michalis K. Titsias
 {: .mb-1}
-Preprint 2025.
+Preprint 2025
 [[pdf]](https://arxiv.org/pdf/2511.19664.pdf)
 [[abs]](https://arxiv.org/abs/2511.19664)
 
@@ -78,7 +78,7 @@ Simplified and Generalized Masked Diffusion for Discrete Data
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**\*, Kehang Han\*, Zhe Wang, Arnaud Doucet, Michalis K. Titsias.
 {: .mb-1}
-NeurIPS 2024.
+NeurIPS 2024
 [[pdf]](https://arxiv.org/pdf/2406.04329.pdf)
 [[abs]](https://arxiv.org/abs/2406.04329)
 [[code]](https://github.com/google-deepmind/md4)
@@ -88,7 +88,7 @@ Nonparametric Score Estimators
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Yuhao Zhou, **Jiaxin Shi**, Jun Zhu.
 {: .mb-1}
-ICML 2020.
+ICML 2020
 [[pdf]](https://arxiv.org/pdf/2005.10099)
 [[abs]](https://arxiv.org/abs/2005.10099)
 [[code]](https://github.com/miskcoo/kscore)
@@ -98,7 +98,7 @@ Sliced Score Matching: A Scalable Approach to Density and Score Estimation
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Yang Song\*, Sahaj Garg\*, **Jiaxin Shi**, Stefano Ermon.
 {: .mb-1}
-UAI 2019.
+UAI 2019
 [[pdf]](https://arxiv.org/pdf/1905.07088)
 [[abs]](https://arxiv.org/abs/1905.07088)
 [[code]](https://github.com/ermongroup/sliced_score_matching)
@@ -111,13 +111,21 @@ A Spectral Approach to Gradient Estimation for Implicit Distributions
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Shengyang Sun, Jun Zhu.
 {: .mb-1}
-ICML 2018. 
+ICML 2018
 [[pdf]](https://arxiv.org/pdf/1806.02925.pdf)
 [[abs]](https://arxiv.org/abs/1806.02925)
 [[code]](https://github.com/thjashin/spectral-stein-grad)
 [[slides]](http://ml.cs.tsinghua.edu.cn/~jiaxin/talks/ssge-icml-18.pdf)
 
 ### Sequence Modeling
+
+Test-time Regression: A Unifying Framework for Designing Sequence Models with Associative Memory
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Ke Alexander Wang, **Jiaxin Shi**, Emily B. Fox
+{: .mb-1}
+Preprint 2025
+[[pdf]](https://arxiv.org/pdf/2501.12352.pdf)
+[[abs]](https://arxiv.org/abs/2501.12352)
 
 Learning-Order Autoregressive Models with Application to Molecular Graph Generation
 {: .fs-5 .mb-1 .text-grey-dk-200}
@@ -131,7 +139,7 @@ Sequence Modeling with Multiresolution Convolutional Memory
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Ke Alexander Wang, Emily B. Fox.
 {: .mb-1}
-ICML 2023.
+ICML 2023
 [[pdf]](https://arxiv.org/pdf/2305.01638.pdf)
 [[abs]](https://arxiv.org/abs/2305.01638)
 [[code]](https://github.com/thjashin/multires-conv)
@@ -143,7 +151,7 @@ A Finite-Particle Convergence Rate for Stein Variational Gradient Descent
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Lester Mackey. 
 {: .mb-1}
-NeurIPS 2023.
+NeurIPS 2023
 [[pdf]](https://arxiv.org/pdf/2211.09721.pdf)
 [[abs]](https://arxiv.org/abs/2211.09721)
 
@@ -151,7 +159,7 @@ Gradient Estimation with Discrete Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Yuhao Zhou, Jessica Hwang, Michalis K. Titsias, Lester Mackey.
 {: .mb-1}
-NeurIPS 2022.
+NeurIPS 2022
 [[pdf]](https://arxiv.org/pdf/2202.09497.pdf)
 [[abs]](https://arxiv.org/abs/2202.09497)
 [[code]](https://github.com/thjashin/rodeo)
@@ -162,7 +170,7 @@ Double Control Variates for Gradient Estimation in Discrete Latent Variable Mode
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Michalis K. Titsias, **Jiaxin Shi**.
 {: .mb-1}
-AISTATS 2022.
+AISTATS 2022
 [[pdf]](https://arxiv.org/pdf/2111.05300.pdf)
 [[abs]](https://arxiv.org/abs/2111.05300)
 [[code]](https://github.com/thjashin/double-cv)
@@ -171,7 +179,7 @@ Sampling with Mirrored Stein Operators
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Chang Liu, Lester Mackey.
 {: .mb-1}
-ICLR 2022.
+ICLR 2022
 [[pdf]](https://arxiv.org/pdf/2106.12506.pdf)
 [[abs]](https://arxiv.org/abs/2106.12506)
 [[code]](https://github.com/thjashin/mirror-stein-samplers)
@@ -202,7 +210,7 @@ Neural Networks as Inter-domain Inducing Points
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Shengyang Sun\*, **Jiaxin Shi**\*, Roger Grosse. 
 {: .mb-1}
-AABI Symposium, 2020.
+AABI Symposium, 2020
 [[pdf]](https://openreview.net/pdf?id=NgqYp7sAW6t)
 [[slides]](http://thjashin.github.io/talks/nn-as-sparse-gp.pdf)
 [[video]](https://www.youtube.com/watch?v=y29G0aRshy0&t=2s)
@@ -213,7 +221,7 @@ Sparse Orthogonal Variational Inference for Gaussian Processes
 {: .fs-5 .mb-1 .text-grey-dk-200}
 **Jiaxin Shi**, Michalis K. Titsias, Andriy Mnih.
 {: .mb-1}
-AISTATS, 2020.
+AISTATS 2020
 [[pdf]](https://arxiv.org/pdf/1910.10596)
 [[abs]](https://arxiv.org/abs/1910.10596)
 [[code]](https://github.com/thjashin/solvegp)
@@ -225,7 +233,7 @@ Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Shengyang Sun, **Jiaxin Shi**, Andrew Gordon Wilson, Roger Grosse.
 {: .mb-1}
-ICML, 2021.
+ICML 2021
 [[pdf]](https://arxiv.org/pdf/2106.05992)
 [[abs]](https://arxiv.org/abs/2106.05992)
 [[code]](https://github.com/ssydasheng/Harmonic-Kernel-Decomposition)
@@ -234,7 +242,7 @@ Functional Variational Bayesian Neural Networks
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Shengyang Sun\*, Guodong Zhang\*, **Jiaxin Shi**\*, Roger Grosse.
 {: .mb-1}
-ICLR 2019.
+ICLR 2019
 [[pdf]](https://arxiv.org/pdf/1903.05779.pdf)
 [[abs]](https://arxiv.org/abs/1903.05779)
 [[code]](https://github.com/ssydasheng/FBNN)
