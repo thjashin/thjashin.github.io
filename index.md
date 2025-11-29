@@ -38,7 +38,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
-* I am an area chair for [ICML 2026](https://neurips.cc/Conferences/2026) and [AISTATS 2026](https://aistats.org/aistats2026/index.html)
+* I am an area chair for [ICML 2026](https://neurips.cc/Conferences/2026) and [AISTATS 2026](https://aistats.org/aistats2026/index.html).
 * Guest lecture at [Oxford StatML](https://www.ox.ac.uk/admissions/graduate/courses/statistics-machine-learning) on discrete diffusion models. [[slides]](https://thjashin.github.io/talks/discrete_diffusion_intro_oxford.pdf)
 * I'm co-organizing the [ICLR 2025 Workshop on World Models](https://sites.google.com/view/worldmodel-iclr2025/).
 * Invited talk at [TTIC]([https://www.ttic.edu/) on discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/md4_ttic.pdf)
