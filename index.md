@@ -39,7 +39,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 {: .d-inline-block :}
 
 * I am an area chair for [ICML 2026](https://neurips.cc/Conferences/2026) and [AISTATS 2026](https://aistats.org/aistats2026/index.html)
-* Guest lecture at [Oxford StatML](https://www.ox.ac.uk/admissions/graduate/courses/statistics-machine-learning) on discrete diffusion models. [[slides]](https://github.com/thjashin/thjashin.github.io/blob/master/talks/discrete_diffusion_intro_oxford.pdf)
+* Guest lecture at [Oxford StatML](https://www.ox.ac.uk/admissions/graduate/courses/statistics-machine-learning) on discrete diffusion models. [[slides]](https://thjashin.github.io/talks/discrete_diffusion_intro_oxford.pdf)
 * I'm co-organizing the [ICLR 2025 Workshop on World Models](https://sites.google.com/view/worldmodel-iclr2025/).
 * Invited talk at [TTIC]([https://www.ttic.edu/) on discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/md4_ttic.pdf)
 * We have opensourced our [code of masked diffusion models](https://github.com/google-deepmind/md4) (with data & model parallel support). Try our [Text](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/openwebtext.py) and [ImageNet](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/imagenet64.py) examples!
@@ -49,10 +49,10 @@ I received my B.E. in Computer Science at Tsinghua University.
 * I am an area chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024).
 * Invited talk at [FIMI 2024](https://ismseminar.github.io/fimi2024/) on designing sequence models with wavelets and [MultiresConv](https://arxiv.org/abs/2305.01638)  [[slides]](https://thjashin.github.io/talks/multires-conv-fimi.pdf)
 * Invited talk at [Optimal Transport Berlin 2024](https://sites.google.com/corp/view/ot-berlin-2024) on Stein's method for machine learning [[slides]](https://thjashin.github.io/talks/ot-berlin-stein-jiaxins.pdf)
-* I am an area chair for [NeurIPS 2023](https://neurips.cc/Conferences/2023).
-* Our work on gradient estimation for discrete distributions won the [NeurIPS 2022 Outstanding Paper Award](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)!
 
 <!-- 
+* I am an area chair for [NeurIPS 2023](https://neurips.cc/Conferences/2023).
+* Our work on gradient estimation for discrete distributions won the [NeurIPS 2022 Outstanding Paper Award](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)!
 * I am an area chair for [AISTATS 2023](http://aistats.org/aistats2023/).
 * I am a [top reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee) for [NeurIPS 2022](https://neurips.cc/).
 -->
