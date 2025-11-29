@@ -39,16 +39,16 @@ I received my B.E. in Computer Science at Tsinghua University.
 {: .d-inline-block :}
 
 * I am an area chair for [ICML 2026](https://neurips.cc/Conferences/2026) and [AISTATS 2026](https://aistats.org/aistats2026/index.html)
+* Guest lecture at [Oxford StatML](https://www.ox.ac.uk/admissions/graduate/courses/statistics-machine-learning) on discrete diffusion models. [[slides]](https://github.com/thjashin/thjashin.github.io/blob/master/talks/discrete_diffusion_intro_oxford.pdf)
 * I'm co-organizing the [ICLR 2025 Workshop on World Models](https://sites.google.com/view/worldmodel-iclr2025/).
-* Talk at [TTIC]([https://www.ttic.edu/) on discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/md4_ttic.pdf)
+* Invited talk at [TTIC]([https://www.ttic.edu/) on discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/md4_ttic.pdf)
 * We have opensourced our [code of masked diffusion models](https://github.com/google-deepmind/md4) (with data & model parallel support). Try our [Text](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/openwebtext.py) and [ImageNet](https://github.com/google-deepmind/md4/tree/main/md4/configs/md4/imagenet64.py) examples!
 * I am an area chair for [AISTATS 2025](https://neurips.cc/Conferences/2025) and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
-* Talk at Imperial College London on [masked diffusions models](https://arxiv.org/abs/2406.04329).
-* Talk at [GenU 2024](https://genu.ai/2024/): Discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
+* Invited talk at Imperial College London on [masked diffusions models](https://arxiv.org/abs/2406.04329).
+* Invited talk at [GenU 2024](https://genu.ai/2024/): Discrete generative modeling with masked diffusions. [[slides]](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
 * I am an area chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024).
-* Talk at [FIMI 2024](https://ismseminar.github.io/fimi2024/) on designing sequence models with wavelets and [MultiresConv](https://arxiv.org/abs/2305.01638)  [[slides]](https://thjashin.github.io/talks/multires-conv-fimi.pdf)
-* Talk at [Optimal Transport Berlin 2024](https://sites.google.com/corp/view/ot-berlin-2024) on Stein's method for machine learning [[slides]](https://thjashin.github.io/talks/ot-berlin-stein-jiaxins.pdf)
-* Check out our new SOTA convolutional sequence modeling [architecture](https://github.com/thjashin/multires-conv). 
+* Invited talk at [FIMI 2024](https://ismseminar.github.io/fimi2024/) on designing sequence models with wavelets and [MultiresConv](https://arxiv.org/abs/2305.01638)  [[slides]](https://thjashin.github.io/talks/multires-conv-fimi.pdf)
+* Invited talk at [Optimal Transport Berlin 2024](https://sites.google.com/corp/view/ot-berlin-2024) on Stein's method for machine learning [[slides]](https://thjashin.github.io/talks/ot-berlin-stein-jiaxins.pdf)
 * I am an area chair for [NeurIPS 2023](https://neurips.cc/Conferences/2023).
 * Our work on gradient estimation for discrete distributions won the [NeurIPS 2022 Outstanding Paper Award](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)!
 
