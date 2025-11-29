@@ -9,6 +9,14 @@ nav_order: 2
 
 ## Preprints
 
+Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Bounds
+{: .fs-5 .mb-1 .text-grey-dk-200}
+**Jiaxin Shi**, Michalis K. Titsias
+{: .mb-1}
+Preprint 2025
+[[pdf]](https://arxiv.org/pdf/2511.19664.pdf)
+[[abs]](https://arxiv.org/abs/2511.19664)
+
 CANDI: Hybrid Discrete-Continuous Diffusion Models
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Patrick Pynadath, **Jiaxin Shi**, Ruqi Zhang
