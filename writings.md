@@ -6,6 +6,7 @@ nav_order: 2
 
 ## Talk Slides
 
+* [Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Bounds](https://thjashin.github.io/talks/neurips25_spigm_talk.pdf)
 * [Discrete Generative Modeling with Masked Diffusions](https://thjashin.github.io/talks/jiaxins_md4_genu.pdf)
 * [Designing Sequence Models with Wavelets and Multiresolution Convolutions](https://thjashin.github.io/talks/multires-conv-fimi.pdf)
 * [Stein's Method for Modern Machine Learning: From Gradient Estimation to Generative Modeling](https://thjashin.github.io/talks/ot-berlin-stein-jiaxins.pdf)
