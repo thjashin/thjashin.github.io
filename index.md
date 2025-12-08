@@ -74,6 +74,7 @@ Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Boun
 Preprint 2025
 [[pdf]](https://arxiv.org/pdf/2511.19664.pdf)
 [[abs]](https://arxiv.org/abs/2511.19664)
+[[slides]](https://thjashin.github.io/talks/neurips25_spigm_talk.pdf)
 
 Simplified and Generalized Masked Diffusion for Discrete Data
 {: .fs-5 .mb-1 .text-grey-dk-200}
