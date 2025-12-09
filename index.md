@@ -7,7 +7,7 @@ permalink: /
 
 <img style="width:200px;float:right;margin:0 0px 12px 12px" src="{{site.url}}/assets/images/jiaxin.jpg">
 
-I am a research scientist at Google DeepMind. I work on machine learning, with an emphasis on:
+I am a research scientist at Meta SuperIntelligence Labs. Previously, I was a research scientist at Google DeepMind. I work on machine learning, with an emphasis on:
 
 * Generative modeling: using probabilistic methods to capture the structure and uncertainty inherent in data
 * Algorithmic modeling: building models that have long-term memory, efficiently encode dependencies, and extract meaningful representations
