@@ -38,7 +38,7 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
-* Invited talk at [NeurIPS 2025 SPIGM Workshop](https://spigmworkshopv3.github.io/) on understanding diffusion loss reweighting. [[slides]](https://thjashin.github.io/talks/neurips25_spigm_talk.pdf)
+* Invited talk at [NeurIPS 2025 SPIGM Workshop](https://spigmworkshopv3.github.io/) on understanding diffusion loss weighting. [[slides]](https://thjashin.github.io/talks/neurips25_spigm_talk.pdf)
 * I am an area chair for [ICML 2026](https://neurips.cc/Conferences/2026) and [AISTATS 2026](https://aistats.org/aistats2026/index.html).
 * Guest lecture at [Oxford StatML](https://www.ox.ac.uk/admissions/graduate/courses/statistics-machine-learning) on discrete diffusion models. [[slides]](https://thjashin.github.io/talks/discrete_diffusion_intro_oxford.pdf)
 * I'm co-organizing the [ICLR 2025 Workshop on World Models](https://sites.google.com/view/worldmodel-iclr2025/).
