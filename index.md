@@ -15,14 +15,6 @@ I am a research scientist at Meta SuperIntelligence Labs. Previously, I was a re
 I am particularly interested in tackling challenging inferential questions at the intersection of these two areas. These encompass topics such as variational inference, sampling, gradient estimation, and score-based modeling.
 
 <!--
-I work on improving the algorithmic modeling and generative modeling capabilities of machine learning methods. 
--->
-<!--
-I work on probabilistic modeling and inference for machine learning. 
-My research aims at bridging the gap between data modeling (e.g., generative models and Bayesian methods) and algorithmic modeling (e.g., neural networks and spectral methods) by addressing challenging inferential questions at the interface of them, such as variational inference and gradient estimation, sampling and optimization, score-based modeling, and predictive uncertainty estimation. 
--->
-<!-- I have worked on topics including approximate inference, Gaussian processes, kernel/spectral methods, generative models, and Bayesian neural networks.  -->
-<!--
 I was a postdoctoral researcher working with [Emily B. Fox](https://statistics.stanford.edu/people/emily-b-fox) at Stanford University.
 Before moving to Stanford I spent two wonderful years (1 year remotely) with the [Machine Learning and Statistics group](https://www.microsoft.com/en-us/research/theme/machine-learning-statistics/) at [Microsoft Research New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/).
 I obtained my PhD in Computer Science (2015-2020) from Tsinghua University, advised by [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun).
@@ -31,8 +23,10 @@ I have also spent a summer interning at [RIKEN-AIP](https://aip.riken.jp/), Toky
 I received my B.E. in Computer Science at Tsinghua University. 
 <!-- My CV can be downloaded from this link: [[pdf]](https://thjashin.github.io/docs/Curriculum_Vitae.pdf). -->
 
-<a href="https://github.com/thjashin"><img style="vertical-align: middle; margin: 0 16px 0 12px" src="{{site.url}}/assets/images/github/GitHub-Mark-32px.png" >Github</a>
-<a href="https://twitter.com/thjashin"><img style="width:32px; vertical-align: middle; margin: 0 12px 0 16px" src="{{site.url}}/assets/images/twitter/Twitter_Logo_Blue.png" >Twitter</a>
+<!-- <a href="https://github.com/thjashin"><img style="vertical-align: middle; margin: 0 16px 0 12px" src="{{site.url}}/assets/images/github/GitHub-Mark-32px.png" >Github</a> -->
+<!-- <a href="https://twitter.com/thjashin"><img style="width:32px; vertical-align: middle; margin: 0 12px 0 16px" src="{{site.url}}/assets/images/twitter/Twitter_Logo_Blue.png" >Twitter</a> -->
+
+You can find me on [Twitter/X](https://twitter.com/thjashin).
 
 
 ## News
