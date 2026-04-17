@@ -26,14 +26,6 @@ Preprint 2025
 [[abs]](https://arxiv.org/abs/2510.22510)
 [[code]](https://github.com/patrickpynadath1/candi-diffusion)
 
-Self-Speculative Masked Diffusions
-{: .fs-5 .mb-1 .text-grey-dk-200}
-Andrew Campbell, Valentin De Bortoli, **Jiaxin Shi**, Arnaud Doucet
-{: .mb-1}
-Preprint 2025
-[[pdf]](https://arxiv.org/pdf/2510.03929.pdf)
-[[abs]](https://arxiv.org/abs/2510.03929)
-
 Test-time Regression: A Unifying Framework for Designing Sequence Models with Associative Memory
 {: .fs-5 .mb-1 .text-grey-dk-200}
 Ke Alexander Wang, **Jiaxin Shi**, Emily B. Fox
@@ -43,6 +35,14 @@ Preprint 2025
 [[abs]](https://arxiv.org/abs/2501.12352)
 
 ## Refereed Publications
+
+Self-Speculative Masked Diffusions
+{: .fs-5 .mb-1 .text-grey-dk-200}
+Andrew Campbell, Valentin De Bortoli, **Jiaxin Shi**, Arnaud Doucet
+{: .mb-1}
+ICLR 2026
+[[pdf]](https://arxiv.org/pdf/2510.03929.pdf)
+[[abs]](https://arxiv.org/abs/2510.03929)
 
 Neural Eigenfunctions Are Structured Representation Learners
 {: .fs-5 .mb-1 .text-grey-dk-200}
