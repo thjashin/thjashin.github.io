@@ -38,6 +38,8 @@ I received my B.E. in Computer Science at Tsinghua University.
 ## News
 {: .d-inline-block :}
 
+* My talk at [IFML Seminar](https://www.ifml.institute/events/ifml-seminar-020626-are-diffusion-and-autoregression-truly-different-insights-masked) (UT Austin): Are Diffusion and Autoregression Truly Different? [[video]](https://youtu.be/Ze11tzM1hcY?si=RfsUOJ25gIfCBjXv)
+* New [blog](https://patrickpynadath1.github.io/blog/eval_methodology/) on why generative perplexity (using one LLM to score samples produced by another LLM) is bad practice.
 * Invited talk at [NeurIPS 2025 SPIGM Workshop](https://spigmworkshopv3.github.io/) on understanding diffusion loss weighting. [[slides]](https://thjashin.github.io/talks/neurips25_spigm_talk.pdf)
 * I am an area chair for [ICML 2026](https://neurips.cc/Conferences/2026) and [AISTATS 2026](https://aistats.org/aistats2026/index.html).
 * Guest lecture at [Oxford StatML](https://www.ox.ac.uk/admissions/graduate/courses/statistics-machine-learning) on discrete diffusion models. [[slides]](https://thjashin.github.io/talks/discrete_diffusion_intro_oxford.pdf)
